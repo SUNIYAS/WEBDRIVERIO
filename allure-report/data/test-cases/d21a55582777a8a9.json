@@ -1,0 +1,148 @@
+{
+  "uid" : "d21a55582777a8a9",
+  "name" : "User wants to register in the sie",
+  "fullName" : "User want to test demotours.User wants to register in the sie",
+  "historyId" : "633a407451e350d72a427e557728b12f",
+  "time" : {
+    "start" : 1643828472321,
+    "stop" : 1643828483329,
+    "duration" : 11008
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given User is on Home page of new tours",
+      "time" : {
+        "start" : 1643828472324,
+        "stop" : 1643828479853,
+        "duration" : 7529
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "When user is on registration and enters contact information",
+      "time" : {
+        "start" : 1643828479853,
+        "stop" : 1643828480678,
+        "duration" : 825
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And user enters mailing information",
+      "time" : {
+        "start" : 1643828480678,
+        "stop" : 1643828481184,
+        "duration" : 506
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then user enters user information",
+      "time" : {
+        "start" : 1643828481185,
+        "stop" : 1643828483324,
+        "duration" : 2139
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testClass",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testMethod",
+    "value" : "User wants to register in the sie"
+  }, {
+    "name" : "package",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b41dc0324af69421",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643824160357,
+        "stop" : 1643824180967,
+        "duration" : 20610
+      }
+    }, {
+      "uid" : "20839a9c2c0a50c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643819394650,
+        "stop" : 1643819404176,
+        "duration" : 9526
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d21a55582777a8a9.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

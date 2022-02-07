@@ -1,0 +1,70 @@
+{
+  "total" : 6,
+  "items" : [ {
+    "uid" : "f6dd1baf17bd76a661bba55850637031",
+    "name" : "The Internet website homepage",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "724e7232e742bcc7c182aab51c79e8b1",
+    "name" : "The Internet website homepage: As a user, I can open internet website",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 1,
+      "total" : 8
+    }
+  }, {
+    "uid" : "6a379864742f2d917f6f86746c5b57b2",
+    "name" : "Practice Form: Student Registration Form",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 6,
+      "total" : 11
+    }
+  }, {
+    "uid" : "757dc7cbed0bdcb3a5b9d1309f052050",
+    "name" : "Practice Form",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "fdbdc9ea7ee956858561e08f47b3a285",
+    "name" : "The Internet Guinea Pig Website: As a user, I can log into the secure area",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "bba7f02889c7a621226e953ff5c9d53e",
+    "name" : "User want to test demotours",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    }
+  } ]
+}

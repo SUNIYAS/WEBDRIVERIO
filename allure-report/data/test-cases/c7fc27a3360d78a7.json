@@ -1,0 +1,310 @@
+{
+  "uid" : "c7fc27a3360d78a7",
+  "name" : "User wants to register in the site",
+  "fullName" : "User want to test demotours.User wants to register in the site",
+  "historyId" : "6ae539582cc2bd7a461806cab943db40",
+  "time" : {
+    "start" : 1643871972004,
+    "stop" : 1643871983740,
+    "duration" : 11736
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given User is on Home page of new tours",
+      "time" : {
+        "start" : 1643871972009,
+        "stop" : 1643871979263,
+        "duration" : 7254
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "maximizing window",
+        "time" : {
+          "start" : 1643871977150,
+          "stop" : 1643871977151,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "loading the link",
+        "time" : {
+          "start" : 1643871978905,
+          "stop" : 1643871978905,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "c595a7d3c8ccae49",
+        "name" : "Screenshot",
+        "source" : "c595a7d3c8ccae49.png",
+        "type" : "image/png",
+        "size" : 157867
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 2,
+      "hasContent" : true
+    }, {
+      "name" : "When user is on registration and enters contact information",
+      "time" : {
+        "start" : 1643871979263,
+        "stop" : 1643871980084,
+        "duration" : 821
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "added my details",
+        "time" : {
+          "start" : 1643871979892,
+          "stop" : 1643871979892,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "3ab40a06dcb24bf4",
+        "name" : "Screenshot",
+        "source" : "3ab40a06dcb24bf4.png",
+        "type" : "image/png",
+        "size" : 163409
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "And user enters mailing information",
+      "time" : {
+        "start" : 1643871980085,
+        "stop" : 1643871980763,
+        "duration" : 678
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "added my address",
+        "time" : {
+          "start" : 1643871980561,
+          "stop" : 1643871980561,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "32f11b3de77bc1b5",
+        "name" : "Screenshot",
+        "source" : "32f11b3de77bc1b5.png",
+        "type" : "image/png",
+        "size" : 167102
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "Then user enters user information",
+      "time" : {
+        "start" : 1643871980763,
+        "stop" : 1643871983737,
+        "duration" : 2974
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "entering the required credentials to login",
+        "time" : {
+          "start" : 1643871981150,
+          "stop" : 1643871981150,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      }, {
+        "name" : "submitting registration",
+        "time" : {
+          "start" : 1643871983338,
+          "stop" : 1643871983338,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "f357a19bbf4cc9be",
+        "name" : "Screenshot",
+        "source" : "f357a19bbf4cc9be.png",
+        "type" : "image/png",
+        "size" : 151390
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 2,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 10,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testClass",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testMethod",
+    "value" : "User wants to register in the site"
+  }, {
+    "name" : "package",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a44e3eba46c8601f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643870053773,
+        "stop" : 1643870070020,
+        "duration" : 16247
+      }
+    }, {
+      "uid" : "d75d86bc20418630",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643865929800,
+        "stop" : 1643865940952,
+        "duration" : 11152
+      }
+    }, {
+      "uid" : "ae86a5d8bb25b971",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643864625487,
+        "stop" : 1643864639300,
+        "duration" : 13813
+      }
+    }, {
+      "uid" : "c1303d43940d34c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643864428935,
+        "stop" : 1643864443544,
+        "duration" : 14609
+      }
+    }, {
+      "uid" : "81c5ed090df1e6d2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643829056225,
+        "stop" : 1643829095103,
+        "duration" : 38878
+      }
+    }, {
+      "uid" : "1bc7555ba362011d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643828905300,
+        "stop" : 1643828935579,
+        "duration" : 30279
+      }
+    }, {
+      "uid" : "f0d53fd59f4d8374",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643828862105,
+        "stop" : 1643828878239,
+        "duration" : 16134
+      }
+    }, {
+      "uid" : "3471d79e8baaf2b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643828775264,
+        "stop" : 1643828788216,
+        "duration" : 12952
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7fc27a3360d78a7.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

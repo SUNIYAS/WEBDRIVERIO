@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643871971979' stop='1643871990155'>
+    <name>User want to test demotours</name>
+    <title>User want to test demotours</title>
+    <test-cases>
+        <test-case start='1643871972004' status='passed' stop='1643871983740'>
+            <name>User wants to register in the site</name>
+            <title>User wants to register in the site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643871972009' status='passed' stop='1643871979263'>
+                    <name>Given User is on Home page of new tours</name>
+                    <title>Given User is on Home page of new tours</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='73a374f4-ce91-4b73-b575-67ff2be1be65-attachment.png' type='image/png' size='157867'/>
+                    </attachments>
+                    <steps>
+                        <step start='1643871977150' status='passed' stop='1643871977151'>
+                            <name>maximizing window</name>
+                            <title>maximizing window</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1643871978905' status='passed' stop='1643871978905'>
+                            <name>loading the link</name>
+                            <title>loading the link</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1643871979263' status='passed' stop='1643871980084'>
+                    <name>When user is on registration and enters contact information</name>
+                    <title>When user is on registration and enters contact information</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='3c425014-fc45-41b9-91a4-502afaee7aac-attachment.png' type='image/png' size='163409'/>
+                    </attachments>
+                    <steps>
+                        <step start='1643871979892' status='passed' stop='1643871979892'>
+                            <name>added my details</name>
+                            <title>added my details</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1643871980085' status='passed' stop='1643871980763'>
+                    <name>And user enters mailing information</name>
+                    <title>And user enters mailing information</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='b4cf9e31-51c2-4a7b-88ff-f20b8ed96db1-attachment.png' type='image/png' size='167102'/>
+                    </attachments>
+                    <steps>
+                        <step start='1643871980561' status='passed' stop='1643871980561'>
+                            <name>added my address</name>
+                            <title>added my address</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1643871980763' status='passed' stop='1643871983737'>
+                    <name>Then user enters user information</name>
+                    <title>Then user enters user information</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='31540cde-2aef-4a69-a387-43daac269f46-attachment.png' type='image/png' size='151390'/>
+                    </attachments>
+                    <steps>
+                        <step start='1643871981150' status='passed' stop='1643871981150'>
+                            <name>entering the required credentials to login</name>
+                            <title>entering the required credentials to login</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1643871983338' status='passed' stop='1643871983338'>
+                            <name>submitting registration</name>
+                            <title>submitting registration</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1643871983740' status='passed' stop='1643871990154'>
+            <name>User wants to login the site</name>
+            <title>User wants to login the site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643871983742' status='passed' stop='1643871984878'>
+                    <name>Given user is on the login page</name>
+                    <title>Given user is on the login page</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='0ded0bf7-cfe8-423f-841a-a1fc7f2c650a-attachment.png' type='image/png' size='215012'/>
+                    </attachments>
+                    <steps>
+                        <step start='1643871983907' status='passed' stop='1643871983907'>
+                            <name>loading sign on URL </name>
+                            <title>loading sign on URL </title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start='1643871984878' status='passed' stop='1643871990153'>
+                    <name>When user enters login details</name>
+                    <title>When user enters login details</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='3917ea90-b5f3-472c-9b00-a1bae55318ac-attachment.png' type='image/png' size='143537'/>
+                    </attachments>
+                    <steps>
+                        <step start='1643871989932' status='passed' stop='1643871989932'>
+                            <name>given required credentials and clicking login btn</name>
+                            <title>given required credentials and clicking login btn</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                        <step start='1643871989932' status='passed' stop='1643871989933'>
+                            <name>displaying titile</name>
+                            <title>displaying titile</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

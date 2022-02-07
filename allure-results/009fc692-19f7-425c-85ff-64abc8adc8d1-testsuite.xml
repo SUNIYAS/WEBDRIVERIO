@@ -1,0 +1,73 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643819394611' stop='1643819407253'>
+    <name>User want to test demotours</name>
+    <title>User want to test demotours</title>
+    <test-cases>
+        <test-case start='1643819394650' status='passed' stop='1643819404176'>
+            <name>User wants to register in the sie</name>
+            <title>User wants to register in the sie</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643819394663' status='passed' stop='1643819400337'>
+                    <name>Given User is on Home page of new tours</name>
+                    <title>Given User is on Home page of new tours</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1643819400337' status='passed' stop='1643819401384'>
+                    <name>When user is on registration and enters contact information</name>
+                    <title>When user is on registration and enters contact information</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1643819401384' status='passed' stop='1643819401848'>
+                    <name>And user enters mailing information</name>
+                    <title>And user enters mailing information</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1643819401848' status='passed' stop='1643819404172'>
+                    <name>Then user enters user information</name>
+                    <title>Then user enters user information</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1643819404177' status='passed' stop='1643819407252'>
+            <name>User wants to login the site</name>
+            <title>User wants to login the site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643819404178' status='passed' stop='1643819405577'>
+                    <name>Given user is on the login page</name>
+                    <title>Given user is on the login page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start='1643819405577' status='passed' stop='1643819407251'>
+                    <name>When user enters login details</name>
+                    <title>When user enters login details</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

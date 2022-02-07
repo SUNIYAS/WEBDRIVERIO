@@ -1,0 +1,85 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643864625459' stop='1643864651234'>
+    <name>User want to test demotours</name>
+    <title>User want to test demotours</title>
+    <test-cases>
+        <test-case start='1643864625487' status='passed' stop='1643864639300'>
+            <name>User wants to register in the site</name>
+            <title>User wants to register in the site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643864625490' status='passed' stop='1643864633064'>
+                    <name>Given User is on Home page of new tours</name>
+                    <title>Given User is on Home page of new tours</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='ec13a15c-ad59-49a9-a12a-4a86171ecdf9-attachment.png' type='image/png' size='157867'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1643864633064' status='passed' stop='1643864633998'>
+                    <name>When user is on registration and enters contact information</name>
+                    <title>When user is on registration and enters contact information</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='eb83fae7-6680-476b-8c8a-889e977ef03d-attachment.png' type='image/png' size='163409'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1643864633999' status='passed' stop='1643864634692'>
+                    <name>And user enters mailing information</name>
+                    <title>And user enters mailing information</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='2ca6ff18-5516-4ca4-9ed7-6e8c78b6d23b-attachment.png' type='image/png' size='167102'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1643864634692' status='passed' stop='1643864639297'>
+                    <name>Then user enters user information</name>
+                    <title>Then user enters user information</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='fc460fbd-8b44-4bec-9ab8-db8bc1771659-attachment.png' type='image/png' size='151390'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+        <test-case start='1643864639300' status='passed' stop='1643864651233'>
+            <name>User wants to login the site</name>
+            <title>User wants to login the site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643864639302' status='passed' stop='1643864640468'>
+                    <name>Given user is on the login page</name>
+                    <title>Given user is on the login page</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='ad7c692b-7221-49ca-a94f-6785cd6de017-attachment.png' type='image/png' size='221843'/>
+                    </attachments>
+                    <steps/>
+                </step>
+                <step start='1643864640468' status='passed' stop='1643864651232'>
+                    <name>When user enters login details</name>
+                    <title>When user enters login details</title>
+                    <attachments>
+                        <attachment title='Screenshot' source='29d74112-d501-4dc1-a4ec-4871d214f27d-attachment.png' type='image/png' size='143537'/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

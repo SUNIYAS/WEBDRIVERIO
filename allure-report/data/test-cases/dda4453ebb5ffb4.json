@@ -1,0 +1,91 @@
+{
+  "uid" : "dda4453ebb5ffb4",
+  "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+  "fullName" : "Practice Form: Student Registration Form.Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+  "historyId" : "64fec53fe57b0c96d5d10cfa748770f",
+  "time" : {
+    "start" : 1643787828532,
+    "stop" : 1643787867402,
+    "duration" : 38870
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1643787828537,
+        "stop" : 1643787857381,
+        "duration" : 28844
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e204aed19374c447",
+        "name" : "Request",
+        "source" : "e204aed19374c447.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\""
+  }, {
+    "name" : "package",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dda4453ebb5ffb4.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

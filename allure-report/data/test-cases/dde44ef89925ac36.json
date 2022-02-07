@@ -1,0 +1,144 @@
+{
+  "uid" : "dde44ef89925ac36",
+  "name" : "As a user, I can open internet website",
+  "fullName" : "The Internet website homepage.As a user, I can open internet website",
+  "historyId" : "cecca2fa3381ba4cf1ec42bcfef9cb2f",
+  "time" : {
+    "start" : 1643870508124,
+    "stop" : 1643870526690,
+    "duration" : 18566
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality",
+  "statusTrace" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"Practice Form 1\"\n                Received: \"Practice Form\"\n                    at World.<anonymous> (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:34)\n                    at step (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:33:23)\n                    at Object.next (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:53)\n                    at fulfilled (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 3,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality",
+    "statusTrace" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"Practice Form 1\"\n                Received: \"Practice Form\"\n                    at World.<anonymous> (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:34)\n                    at step (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:33:23)\n                    at Object.next (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:53)\n                    at fulfilled (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Given I open the browser and load the url https://demoqa.com/automation-practice-form",
+      "time" : {
+        "start" : 1643870508132,
+        "stop" : 1643870526638,
+        "duration" : 18506
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "7f9d331741d78235",
+        "name" : "Screenshot",
+        "source" : "7f9d331741d78235.png",
+        "type" : "image/png",
+        "size" : 441506
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then I should see a header with text Practice Form 1",
+      "time" : {
+        "start" : 1643870526638,
+        "stop" : 1643870526690,
+        "duration" : 52
+      },
+      "status" : "failed",
+      "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"Practice Form 1\"\n                Received: \"Practice Form\"\n                    at World.<anonymous> (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:34)\n                    at step (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:33:23)\n                    at Object.next (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:53)\n                    at fulfilled (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet website homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet website homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "As a user, I can open internet website"
+  }, {
+    "name" : "package",
+    "value" : "The Internet website homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9b9cc3622f535027",
+      "status" : "broken",
+      "statusDetails" : "Step \"I should see a header with text Practice Form 1\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1643870383549,
+        "stop" : 1643870383555,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "38f74ae25755eb0e",
+      "status" : "failed",
+      "statusDetails" : "Error: expect(received).toEqual(expected) // deep equality",
+      "time" : {
+        "start" : 1643869547062,
+        "stop" : 1643869565237,
+        "duration" : 18175
+      }
+    }, {
+      "uid" : "528e47e7b44d834b",
+      "status" : "broken",
+      "statusDetails" : "Step \"I should see a header with text Practice Form\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1643827155195,
+        "stop" : 1643827155203,
+        "duration" : 8
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "dde44ef89925ac36.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

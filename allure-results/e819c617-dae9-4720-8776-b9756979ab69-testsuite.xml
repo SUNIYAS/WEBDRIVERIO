@@ -1,0 +1,70 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1643873355485' stop='1643873372506'>
+    <name>User want to test demotours</name>
+    <title>User want to test demotours</title>
+    <test-cases>
+        <test-case start='1643873355509' status='broken' stop='1643873362323'>
+            <name>User wants to register in the site</name>
+            <title>User wants to register in the site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643873355513' status='broken' stop='1643873362323'>
+                    <name>Given User is on Home page of new tours</name>
+                    <title>Given User is on Home page of new tours</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>RangeError: Maximum call stack size exceeded</message>
+                <stack-trace>RangeError: Maximum call stack size exceeded
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:5)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)
+                    at addLog (C:\Users\Hp\Desktop\webdriverioNEW\features\step-definitions\demosteps.ts:7:11)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1643873362334' status='broken' stop='1643873372445'>
+            <name>User wants to login the site</name>
+            <title>User wants to login the site</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-97.0.4692.99'/>
+            </parameters>
+            <steps>
+                <step start='1643873362335' status='broken' stop='1643873372445'>
+                    <name>Given user is on the login page</name>
+                    <title>Given user is on the login page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <failure>
+                <message>Error: Can't call click on element with selector "=sign-in" because element wasn't found</message>
+                <stack-trace>Error: Can't call click on element with selector "=sign-in" because element wasn't found
+                    at implicitWait (C:\Users\Hp\Desktop\webdriverioNEW\node_modules\@wdio\runner\node_modules\webdriverio\build\utils\implicitWait.js:34:19)
+                    at async Element.elementErrorHandlerCallbackFn (C:\Users\Hp\Desktop\webdriverioNEW\node_modules\@wdio\runner\node_modules\webdriverio\build\middlewares.js:20:29)
+                    at async Element.wrapCommandFn (C:\Users\Hp\Desktop\webdriverioNEW\node_modules\@wdio\runner\node_modules\@wdio\utils\build\shim.js:131:29)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

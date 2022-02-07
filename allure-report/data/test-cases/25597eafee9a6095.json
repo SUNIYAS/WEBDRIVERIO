@@ -1,0 +1,109 @@
+{
+  "uid" : "25597eafee9a6095",
+  "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+  "fullName" : "Practice Form: Student Registration Form.Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+  "historyId" : "64fec53fe57b0c96d5d10cfa748770f",
+  "time" : {
+    "start" : 1643793386938,
+    "stop" : 1643793402774,
+    "duration" : 15836
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1643793386941,
+        "stop" : 1643793392744,
+        "duration" : 5803
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d217cfaa68d477a8",
+        "name" : "Request",
+        "source" : "d217cfaa68d477a8.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\""
+  }, {
+    "name" : "package",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1aeeb2e185a902a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643788061952,
+        "stop" : 1643788091250,
+        "duration" : 29298
+      }
+    }, {
+      "uid" : "dda4453ebb5ffb4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643787828532,
+        "stop" : 1643787867402,
+        "duration" : 38870
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "25597eafee9a6095.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

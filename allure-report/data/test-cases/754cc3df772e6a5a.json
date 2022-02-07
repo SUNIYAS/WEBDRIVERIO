@@ -1,0 +1,102 @@
+{
+  "uid" : "754cc3df772e6a5a",
+  "name" : "",
+  "fullName" : "Practice Form: Student Registration Form.",
+  "historyId" : "5bf816221160cfa245cc2b58897089fd",
+  "time" : {
+    "start" : 1643793408247,
+    "stop" : 1643793408248,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d03d0d4b972e0419",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643793386936,
+        "stop" : 1643793386938,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9ddd405b169f7ed9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643788096544,
+        "stop" : 1643788096546,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "5444bf59573d9675",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643788061949,
+        "stop" : 1643788061951,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ee4f8048a0024d04",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643787867704,
+        "stop" : 1643787867705,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "b87de3f7d27ff772",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643787828529,
+        "stop" : 1643787828532,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "754cc3df772e6a5a.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

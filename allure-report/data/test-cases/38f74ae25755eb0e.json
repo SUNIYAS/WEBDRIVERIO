@@ -1,0 +1,111 @@
+{
+  "uid" : "38f74ae25755eb0e",
+  "name" : "As a user, I can open internet website",
+  "fullName" : "The Internet website homepage.As a user, I can open internet website",
+  "historyId" : "cecca2fa3381ba4cf1ec42bcfef9cb2f",
+  "time" : {
+    "start" : 1643869547062,
+    "stop" : 1643869565237,
+    "duration" : 18175
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality",
+  "statusTrace" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"Practice Form 1\"\n                Received: \"Practice Form\"\n                    at World.<anonymous> (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:34)\n                    at step (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:33:23)\n                    at Object.next (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:53)\n                    at fulfilled (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality",
+    "statusTrace" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"Practice Form 1\"\n                Received: \"Practice Form\"\n                    at World.<anonymous> (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:34)\n                    at step (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:33:23)\n                    at Object.next (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:53)\n                    at fulfilled (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+    "steps" : [ {
+      "name" : "Given I open the browser and load the url https://demoqa.com/automation-practice-form",
+      "time" : {
+        "start" : 1643869547066,
+        "stop" : 1643869564808,
+        "duration" : 17742
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should see a header with text Practice Form 1",
+      "time" : {
+        "start" : 1643869564808,
+        "stop" : 1643869565236,
+        "duration" : 428
+      },
+      "status" : "failed",
+      "statusMessage" : "Error: expect(received).toEqual(expected) // deep equality\n                \n                Expected: \"Practice Form 1\"\n                Received: \"Practice Form\"\n                    at World.<anonymous> (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:34)\n                    at step (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:33:23)\n                    at Object.next (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:14:53)\n                    at fulfilled (C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\step-definitions\\homesteps.ts:5:58)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "36814a73b386ea1",
+        "name" : "Screenshot",
+        "source" : "36814a73b386ea1.png",
+        "type" : "image/png",
+        "size" : 339286
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "stepsCount" : 2,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet website homepage"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet website homepage"
+  }, {
+    "name" : "testMethod",
+    "value" : "As a user, I can open internet website"
+  }, {
+    "name" : "package",
+    "value" : "The Internet website homepage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "38f74ae25755eb0e.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

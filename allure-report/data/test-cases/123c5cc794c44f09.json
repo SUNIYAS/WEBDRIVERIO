@@ -1,0 +1,78 @@
+{
+  "uid" : "123c5cc794c44f09",
+  "name" : "And I select hobbies Sports",
+  "fullName" : "Practice Form: Student Registration Form.And I select hobbies Sports",
+  "historyId" : "e4e88b9eea2b83fdb6f2d0b5d43b9f52",
+  "time" : {
+    "start" : 1643793408241,
+    "stop" : 0,
+    "duration" : -1643793408241
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I select hobbies Sports"
+  }, {
+    "name" : "package",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b37d8ee9e178c80",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643788096542,
+        "stop" : 0,
+        "duration" : -1643788096542
+      }
+    }, {
+      "uid" : "f3bf71ba6c059070",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787867702,
+        "stop" : 0,
+        "duration" : -1643787867702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "123c5cc794c44f09.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

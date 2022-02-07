@@ -1,0 +1,223 @@
+{
+  "uid" : "269261f7912da4c9",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Then I should see a flash message saying Your username is invalid!",
+  "historyId" : "aff82f110c6dbfb714a5357cb6cb44b7",
+  "time" : {
+    "start" : 1643621913519,
+    "stop" : 1643621913641,
+    "duration" : 122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643621913521,
+        "stop" : 1643621913539,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dda9def793f0678a",
+        "name" : "Request",
+        "source" : "dda9def793f0678a.json",
+        "type" : "application/json",
+        "size" : 50
+      }, {
+        "uid" : "dde5b42aadc2b697",
+        "name" : "Response",
+        "source" : "dde5b42aadc2b697.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/elements",
+      "time" : {
+        "start" : 1643621913544,
+        "stop" : 1643621913556,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c35d7f42ab1b5ac3",
+        "name" : "Request",
+        "source" : "c35d7f42ab1b5ac3.json",
+        "type" : "application/json",
+        "size" : 50
+      }, {
+        "uid" : "9b369c249f60d08b",
+        "name" : "Response",
+        "source" : "9b369c249f60d08b.json",
+        "type" : "application/json",
+        "size" : 93
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643621913563,
+        "stop" : 1643621913582,
+        "duration" : 19
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8a5e3698b790f877",
+        "name" : "Request",
+        "source" : "8a5e3698b790f877.json",
+        "type" : "application/json",
+        "size" : 50
+      }, {
+        "uid" : "7b7b4168704ea8c8",
+        "name" : "Response",
+        "source" : "7b7b4168704ea8c8.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/fb7c53ce-e76c-4e18-85ff-78ce9f42c6c3/text",
+      "time" : {
+        "start" : 1643621913587,
+        "stop" : 1643621913640,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "dd6d88b606af2661",
+        "name" : "Response",
+        "source" : "dd6d88b606af2661.json",
+        "type" : "application/json",
+        "size" : 31
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a flash message saying Your username is invalid!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "10e54c6ad0215d13",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621268227,
+        "stop" : 1643621268307,
+        "duration" : 80
+      }
+    }, {
+      "uid" : "70e55f30e951ea48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107498755,
+        "stop" : 1643107498828,
+        "duration" : 73
+      }
+    }, {
+      "uid" : "bd4935eace684732",
+      "status" : "broken",
+      "statusDetails" : "Step \"I should see a flash message saying Your username is invalid!\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1643105451770,
+        "stop" : 1643105451771,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "db803896297837d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105073374,
+        "stop" : 1643105073474,
+        "duration" : 100
+      }
+    }, {
+      "uid" : "7e367b93a34eb49f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096348817,
+        "stop" : 1643096348915,
+        "duration" : 98
+      }
+    }, {
+      "uid" : "1e4af72835216980",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096168643,
+        "stop" : 1643096168771,
+        "duration" : 128
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "269261f7912da4c9.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

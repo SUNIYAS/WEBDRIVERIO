@@ -1,0 +1,154 @@
+{
+  "uid" : "1bc7555ba362011d",
+  "name" : "User wants to register in the site",
+  "fullName" : "User want to test demotours.User wants to register in the site",
+  "historyId" : "6ae539582cc2bd7a461806cab943db40",
+  "time" : {
+    "start" : 1643828905300,
+    "stop" : 1643828935579,
+    "duration" : 30279
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given User is on Home page of new tours",
+      "time" : {
+        "start" : 1643828905303,
+        "stop" : 1643828930983,
+        "duration" : 25680
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "ce577a4dfce831b3",
+        "name" : "Screenshot",
+        "source" : "ce577a4dfce831b3.png",
+        "type" : "image/png",
+        "size" : 157867
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "When user is on registration and enters contact information",
+      "time" : {
+        "start" : 1643828930983,
+        "stop" : 1643828931880,
+        "duration" : 897
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cd8ed144f0f96744",
+        "name" : "Screenshot",
+        "source" : "cd8ed144f0f96744.png",
+        "type" : "image/png",
+        "size" : 163409
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "And user enters mailing information",
+      "time" : {
+        "start" : 1643828931880,
+        "stop" : 1643828932755,
+        "duration" : 875
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b5af105df8a919a9",
+        "name" : "Screenshot",
+        "source" : "b5af105df8a919a9.png",
+        "type" : "image/png",
+        "size" : 167102
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Then user enters user information",
+      "time" : {
+        "start" : 1643828932756,
+        "stop" : 1643828935576,
+        "duration" : 2820
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6cf3d0063d856d67",
+        "name" : "Screenshot",
+        "source" : "6cf3d0063d856d67.png",
+        "type" : "image/png",
+        "size" : 151390
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testClass",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testMethod",
+    "value" : "User wants to register in the site"
+  }, {
+    "name" : "package",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1bc7555ba362011d.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

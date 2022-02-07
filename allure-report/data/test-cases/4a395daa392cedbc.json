@@ -1,0 +1,62 @@
+{
+  "uid" : "4a395daa392cedbc",
+  "name" : "When I login with tomsmith and SuperSecretPassword!",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with tomsmith and SuperSecretPassword!",
+  "historyId" : "3e64f44776576365544e0536d02298e1",
+  "time" : {
+    "start" : 1643105451700,
+    "stop" : 1643105451702,
+    "duration" : 2
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Step \"I login with tomsmith and SuperSecretPassword!\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+  "statusTrace" : "Step \"I login with tomsmith and SuperSecretPassword!\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.\n                \tat Feature(C:\\Users\\Hp\\Desktop\\webdriverioNEW\\features\\login.feature):1:1\n                \tat Scenario(As a user, I can log into the secure area):3:3\n                \tat Step(I login with <username> and <password>):6:5\n                ",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with tomsmith and SuperSecretPassword!"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4a395daa392cedbc.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

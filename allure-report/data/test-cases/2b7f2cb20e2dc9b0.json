@@ -1,0 +1,238 @@
+{
+  "uid" : "2b7f2cb20e2dc9b0",
+  "name" : "When I login with foobar and barfoo",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with foobar and barfoo",
+  "historyId" : "d1bd6fb6348a551c5183ef54015ab90f",
+  "time" : {
+    "start" : 1643107497735,
+    "stop" : 1643107498754,
+    "duration" : 1019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643107497735,
+        "stop" : 1643107497748,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "48302d00bae7872f",
+        "name" : "Request",
+        "source" : "48302d00bae7872f.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "79f5aeba0f146958",
+        "name" : "Response",
+        "source" : "79f5aeba0f146958.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/e85a5fbf-1deb-4e4d-aff7-52372c58ee15/clear",
+      "time" : {
+        "start" : 1643107497751,
+        "stop" : 1643107497804,
+        "duration" : 53
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/e85a5fbf-1deb-4e4d-aff7-52372c58ee15/value",
+      "time" : {
+        "start" : 1643107497804,
+        "stop" : 1643107497877,
+        "duration" : 73
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c0f70b238b760b1e",
+        "name" : "Request",
+        "source" : "c0f70b238b760b1e.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643107497878,
+        "stop" : 1643107497892,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b0dd32149ea3cef3",
+        "name" : "Request",
+        "source" : "b0dd32149ea3cef3.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "bb79f6f6b79a4de3",
+        "name" : "Response",
+        "source" : "bb79f6f6b79a4de3.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/7bf1b4dd-9198-4dbb-bb6b-86097dfe13e8/clear",
+      "time" : {
+        "start" : 1643107497894,
+        "stop" : 1643107497939,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/7bf1b4dd-9198-4dbb-bb6b-86097dfe13e8/value",
+      "time" : {
+        "start" : 1643107497939,
+        "stop" : 1643107498018,
+        "duration" : 79
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "387f4a3e6eee6482",
+        "name" : "Request",
+        "source" : "387f4a3e6eee6482.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643107498018,
+        "stop" : 1643107498035,
+        "duration" : 17
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5e0b7d06ad1ecb10",
+        "name" : "Request",
+        "source" : "5e0b7d06ad1ecb10.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "5d5007eac21cb0fd",
+        "name" : "Response",
+        "source" : "5d5007eac21cb0fd.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/236b8553-5875-4c12-9f49-45a47448a904/click",
+      "time" : {
+        "start" : 1643107498038,
+        "stop" : 1643107498754,
+        "duration" : 716
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 8,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with foobar and barfoo"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2b7f2cb20e2dc9b0.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}
