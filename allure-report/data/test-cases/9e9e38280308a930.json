@@ -1,0 +1,289 @@
+{
+  "uid" : "9e9e38280308a930",
+  "name" : "When I login with foobar and barfoo",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.When I login with foobar and barfoo",
+  "historyId" : "d1bd6fb6348a551c5183ef54015ab90f",
+  "time" : {
+    "start" : 1643621910638,
+    "stop" : 1643621913519,
+    "duration" : 2881
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 6,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643621910639,
+        "stop" : 1643621910675,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "39b55cacfb984ac3",
+        "name" : "Request",
+        "source" : "39b55cacfb984ac3.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "9f1d6ececeb43ee6",
+        "name" : "Response",
+        "source" : "9f1d6ececeb43ee6.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/02bd1e4f-7eac-4234-90c3-072e39bf6106/clear",
+      "time" : {
+        "start" : 1643621910681,
+        "stop" : 1643621910729,
+        "duration" : 48
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/02bd1e4f-7eac-4234-90c3-072e39bf6106/value",
+      "time" : {
+        "start" : 1643621910730,
+        "stop" : 1643621910798,
+        "duration" : 68
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c4eae1ce7fd0b76e",
+        "name" : "Request",
+        "source" : "c4eae1ce7fd0b76e.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643621910798,
+        "stop" : 1643621910820,
+        "duration" : 22
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "35bec393ae67cc98",
+        "name" : "Request",
+        "source" : "35bec393ae67cc98.json",
+        "type" : "application/json",
+        "size" : 53
+      }, {
+        "uid" : "1a372a216576af9d",
+        "name" : "Response",
+        "source" : "1a372a216576af9d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/b417811c-6d3b-46a8-a9e1-54babb9fd85b/clear",
+      "time" : {
+        "start" : 1643621910825,
+        "stop" : 1643621910870,
+        "duration" : 45
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/b417811c-6d3b-46a8-a9e1-54babb9fd85b/value",
+      "time" : {
+        "start" : 1643621910871,
+        "stop" : 1643621910940,
+        "duration" : 69
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c9d81057b9384a37",
+        "name" : "Request",
+        "source" : "c9d81057b9384a37.json",
+        "type" : "application/json",
+        "size" : 22
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643621910940,
+        "stop" : 1643621910956,
+        "duration" : 16
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c88cc8d898a1bbca",
+        "name" : "Request",
+        "source" : "c88cc8d898a1bbca.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "590a60fb2dd47325",
+        "name" : "Response",
+        "source" : "590a60fb2dd47325.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/element/e4a69f2b-2000-47cd-a1b3-5fbdbae5bf85/click",
+      "time" : {
+        "start" : 1643621910961,
+        "stop" : 1643621913518,
+        "duration" : 2557
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 8,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I login with foobar and barfoo"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f105a5e074030046",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621266581,
+        "stop" : 1643621268227,
+        "duration" : 1646
+      }
+    }, {
+      "uid" : "9ab6c8bf110b75fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107497735,
+        "stop" : 1643107498754,
+        "duration" : 1019
+      }
+    }, {
+      "uid" : "b7fb3991d1f2e8be",
+      "status" : "broken",
+      "statusDetails" : "Step \"I login with foobar and barfoo\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1643105451768,
+        "stop" : 1643105451768,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a8ec2b4a2206fdac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105072153,
+        "stop" : 1643105073373,
+        "duration" : 1220
+      }
+    }, {
+      "uid" : "662f9aedeeada508",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096347573,
+        "stop" : 1643096348817,
+        "duration" : 1244
+      }
+    }, {
+      "uid" : "cc381a75ab7c9dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096167051,
+        "stop" : 1643096168642,
+        "duration" : 1591
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e9e38280308a930.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

@@ -1,0 +1,114 @@
+{
+  "uid" : "e41a3503fb688975",
+  "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+  "fullName" : "The Internet website homepage: As a user, I can open internet website.Given I open the browser and load the url https://the-internet.herokuapp.com/",
+  "historyId" : "97330fb14e199122e5d4f6d43efad449",
+  "time" : {
+    "start" : 1643714787379,
+    "stop" : 1643714802460,
+    "duration" : 15081
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1643714787391,
+        "stop" : 1643714792263,
+        "duration" : 4872
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "41cefbf3f6c798a1",
+        "name" : "Request",
+        "source" : "41cefbf3f6c798a1.json",
+        "type" : "application/json",
+        "size" : 50
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1643714797275,
+        "stop" : 1643714797442,
+        "duration" : 167
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "de7830234c8f761f",
+        "name" : "Response",
+        "source" : "de7830234c8f761f.json",
+        "type" : "application/json",
+        "size" : 58
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I open the browser and load the url https://the-internet.herokuapp.com/"
+  }, {
+    "name" : "package",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e41a3503fb688975.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "b12f6454c09bb3f7",
+  "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
+  "fullName" : "Practice Form: Student Registration Form.When I enter firstname Emma and lastname watson and Email <userEmail>",
+  "historyId" : "b9f83df7dfd75d0220104f43df099b12",
+  "time" : {
+    "start" : 1643788096385,
+    "stop" : 1643788096388,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I enter firstname Emma and lastname watson and Email <userEmail>"
+  }, {
+    "name" : "package",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b12f6454c09bb3f7.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

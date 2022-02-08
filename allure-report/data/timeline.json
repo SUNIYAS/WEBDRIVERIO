@@ -4,858 +4,8 @@
   "children" : [ {
     "name" : "0-1",
     "children" : [ {
-      "name" : "Given I am on the login page",
-      "uid" : "9daef4557294e8ee",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107497378,
-        "stop" : 1643107497734,
-        "duration" : 356
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "7fdf0c468a77bb27",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105071585,
-        "stop" : 1643105071727,
-        "duration" : 142
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "bd4935eace684732",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643105451770,
-        "stop" : 1643105451771,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "db803896297837d1",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105073374,
-        "stop" : 1643105073474,
-        "duration" : 100
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "eab4b97ff2de01d3",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107497377,
-        "stop" : 1643107497378,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with foobar and barfoo",
-      "uid" : "229644ca60dc7496",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621266581,
-        "stop" : 1643621268227,
-        "duration" : 1646
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "1135212044784755",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096339257,
-        "stop" : 1643096345326,
-        "duration" : 6069
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "6ff68aeedef3a3ca",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621909139,
-        "stop" : 1643621909282,
-        "duration" : 143
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 6,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "3599d5e50a79277f",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096339255,
-        "stop" : 1643096339257,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "d759f410e7d168b4",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621239026,
-        "stop" : 1643621239028,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "542402478840df5f",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643105451699,
-        "stop" : 1643105451700,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "1df5826bf3cb4fed",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096346651,
-        "stop" : 1643096346812,
-        "duration" : 161
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "b38e06a62912243f",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621266027,
-        "stop" : 1643621266581,
-        "duration" : 554
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "6479ffb625ebac90",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621913642,
-        "stop" : 1643621913643,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 27,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "4b26caf870403cc4",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621909308,
-        "stop" : 1643621909309,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
       "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "9e4b324fb4fc170f",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107495933,
-        "stop" : 1643107497181,
-        "duration" : 1248
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "581f6460bd3f470d",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105071755,
-        "stop" : 1643105072153,
-        "duration" : 398
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "b95cdc156da5f2b5",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621885312,
-        "stop" : 1643621885318,
-        "duration" : 6
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "471d25e0a0561c6e",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621885319,
-        "stop" : 1643621906869,
-        "duration" : 21550
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "bf6f1b47aaf82c85",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621909309,
-        "stop" : 1643621910637,
-        "duration" : 1328
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 13,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "fed4682b5b25470d",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621266026,
-        "stop" : 1643621266026,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "3d1f329120f5dc77",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107498829,
-        "stop" : 1643107498829,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "3ec4107e39e02f37",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105071754,
-        "stop" : 1643105071755,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with foobar and barfoo",
-      "uid" : "ab0c32464407c7d4",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105072153,
-        "stop" : 1643105073373,
-        "duration" : 1220
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "f83237113f85de39",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621909282,
-        "stop" : 1643621909283,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "ed3eccda5eac0a97",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621265764,
-        "stop" : 1643621265978,
-        "duration" : 214
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "4f7cbe1928a18b26",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621268309,
-        "stop" : 1643621268310,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "29c440ac45b446db",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107497181,
-        "stop" : 1643107497344,
-        "duration" : 163
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "8d90dd16dea8b2d8",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096346844,
-        "stop" : 1643096346845,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "e01b06fa1a9db159",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105071727,
-        "stop" : 1643105071728,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with foobar and barfoo",
-      "uid" : "a047dad354ff6cab",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621910638,
-        "stop" : 1643621913519,
-        "duration" : 2881
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 6,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with foobar and barfoo",
-      "uid" : "2b7f2cb20e2dc9b0",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107497735,
-        "stop" : 1643107498754,
-        "duration" : 1019
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "70e55f30e951ea48",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107498755,
-        "stop" : 1643107498828,
-        "duration" : 73
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "639b23bf011ec413",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643105451703,
-        "stop" : 1643105451704,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "89fa2e98b6892a70",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621239028,
-        "stop" : 1643621263931,
-        "duration" : 24903
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "21335971ff7bc5e3",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105451764,
-        "stop" : 1643105451764,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "10e54c6ad0215d13",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621268227,
-        "stop" : 1643621268307,
-        "duration" : 80
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with foobar and barfoo",
-      "uid" : "ca3f4b18f2cbe09",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096347573,
-        "stop" : 1643096348817,
-        "duration" : 1244
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with foobar and barfoo",
-      "uid" : "7dd34bacec79fc9",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643105451768,
-        "stop" : 1643105451768,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "a54860d4e0f82f06",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096345327,
-        "stop" : 1643096346651,
-        "duration" : 1324
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "59f456d80b72784",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643105451764,
-        "stop" : 1643105451765,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "7e367b93a34eb49f",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096348817,
-        "stop" : 1643096348915,
-        "duration" : 98
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "167d3fc8a53ae890",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096346845,
-        "stop" : 1643096347573,
-        "duration" : 728
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "e62511d854d611e1",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096348915,
-        "stop" : 1643096348916,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "5834584fb3ec900c",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107491306,
-        "stop" : 1643107495933,
-        "duration" : 4627
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "8b27affdae59a467",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105064309,
-        "stop" : 1643105064310,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "9f7a8b30a572662",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105069803,
-        "stop" : 1643105071585,
-        "duration" : 1782
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "4a395daa392cedbc",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643105451700,
-        "stop" : 1643105451702,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "6778aaf03c98d6bb",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105451775,
-        "stop" : 1643105451778,
-        "duration" : 3
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "4b3a0769eee76c6",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643107491304,
-        "stop" : 1643107491305,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "703200d434134009",
+      "uid" : "bb4cf0dbdec03ea3",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
@@ -872,12 +22,80 @@
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
       "name" : "",
-      "uid" : "3f02e6919161f5cd",
+      "uid" : "43e6b0426f9ee7bd",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1643107497344,
-        "stop" : 1643107497345,
+        "start" : 1643105064309,
+        "stop" : 1643105064310,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "caf05bcb1575e338",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643105451770,
+        "stop" : 1643105451771,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "b3a58776492d962f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107491306,
+        "stop" : 1643107495933,
+        "duration" : 4627
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "9f88a82e16cbac7f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105069803,
+        "stop" : 1643105071585,
+        "duration" : 1782
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "d03f7e4791263fce",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643105451764,
+        "stop" : 1643105451765,
         "duration" : 1
       },
       "flaky" : false,
@@ -889,30 +107,13 @@
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
       "name" : "",
-      "uid" : "96974c654ca8b4ad",
+      "uid" : "c2aa9154c00facd0",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1643105451704,
-        "stop" : 1643105451707,
-        "duration" : 3
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "9149a7eac15c590c",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643105064311,
-        "stop" : 1643105069802,
-        "duration" : 5491
+        "start" : 1643096346844,
+        "stop" : 1643096346845,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -923,7 +124,92 @@
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
       "name" : "",
-      "uid" : "70e4904d9e6cc5f7",
+      "uid" : "576613a5f58ce100",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621266026,
+        "stop" : 1643621266026,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "13c378bb3ceeef77",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107498829,
+        "stop" : 1643107498829,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "b452c17c7d624867",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621909308,
+        "stop" : 1643621909309,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "cf253ffa9f356505",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621913642,
+        "stop" : 1643621913643,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 27,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "9b57c4ac52b1634e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621266027,
+        "stop" : 1643621266581,
+        "duration" : 554
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "62fca5d1680f0350",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
@@ -939,31 +225,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
-      "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "4ba5daf6c2215d00",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621906870,
-        "stop" : 1643621909139,
-        "duration" : 2269
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 6,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
       "name" : "",
-      "uid" : "f5bdc5aa548831b0",
+      "uid" : "14562587baeb62aa",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1643621265978,
-        "stop" : 1643621265979,
-        "duration" : 1
+        "start" : 1643621239026,
+        "stop" : 1643621239028,
+        "duration" : 2
       },
       "flaky" : false,
       "newFailed" : false,
@@ -973,25 +242,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
-      "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "269261f7912da4c9",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621913519,
-        "stop" : 1643621913641,
-        "duration" : 122
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 6,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
       "name" : "",
-      "uid" : "35aebc132e4101c1",
+      "uid" : "5e23d0b65e2660db",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
@@ -1008,7 +260,704 @@
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
       "name" : "",
-      "uid" : "9209f23ff7f6ca33",
+      "uid" : "c1459c2a4cd46bce",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107491304,
+        "stop" : 1643107491305,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "bf13b76e0d4970da",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107497181,
+        "stop" : 1643107497344,
+        "duration" : 163
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "b8aad61a5622bf6",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096348915,
+        "stop" : 1643096348916,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "a3fbc9101d4ba330",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096339257,
+        "stop" : 1643096345326,
+        "duration" : 6069
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "7c017a8e396106ce",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105071754,
+        "stop" : 1643105071755,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "f105a5e074030046",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621266581,
+        "stop" : 1643621268227,
+        "duration" : 1646
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "9ab6c8bf110b75fc",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107497735,
+        "stop" : 1643107498754,
+        "duration" : 1019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "f5f09d93ba23c83a",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621239028,
+        "stop" : 1643621263931,
+        "duration" : 24903
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "cf421c15437ca9f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105071755,
+        "stop" : 1643105072153,
+        "duration" : 398
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "eec8abb57f4ec7ec",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621909282,
+        "stop" : 1643621909283,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "8385806fa834f6bc",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096339255,
+        "stop" : 1643096339257,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "93cbf1c69787c571",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107497344,
+        "stop" : 1643107497345,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "4bd7c6276509cc93",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107498755,
+        "stop" : 1643107498828,
+        "duration" : 73
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "5c3208456725f790",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621906870,
+        "stop" : 1643621909139,
+        "duration" : 2269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "ae60e274a91ec523",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107497378,
+        "stop" : 1643107497734,
+        "duration" : 356
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "cb020a6935f2de19",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107497377,
+        "stop" : 1643107497378,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "ce4a627649220958",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643105451700,
+        "stop" : 1643105451702,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "b55abfebea223bc6",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621885319,
+        "stop" : 1643621906869,
+        "duration" : 21550
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "49206f6e5a4ae210",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621268309,
+        "stop" : 1643621268310,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "307548d49b88823d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621909309,
+        "stop" : 1643621910637,
+        "duration" : 1328
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "79d8dbdfa12e6082",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096346651,
+        "stop" : 1643096346812,
+        "duration" : 161
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "ca14564f12642b5",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621909139,
+        "stop" : 1643621909282,
+        "duration" : 143
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "31888ddf9e1c1fb1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107495933,
+        "stop" : 1643107497181,
+        "duration" : 1248
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "e6349f7c173393f1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105451775,
+        "stop" : 1643105451778,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "547b306f754c37d3",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105073374,
+        "stop" : 1643105073474,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "3ec3389700adc067",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096346845,
+        "stop" : 1643096347573,
+        "duration" : 728
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "9e9e38280308a930",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621910638,
+        "stop" : 1643621913519,
+        "duration" : 2881
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "8a15bcef1f71437d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621885312,
+        "stop" : 1643621885318,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "ed9c98a36a3c91b2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621268227,
+        "stop" : 1643621268307,
+        "duration" : 80
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "ceb587b1ed4ad377",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643105451703,
+        "stop" : 1643105451704,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "662f9aedeeada508",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096347573,
+        "stop" : 1643096348817,
+        "duration" : 1244
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "e1ecacd86786a2ec",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105064311,
+        "stop" : 1643105069802,
+        "duration" : 5491
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "b7fb3991d1f2e8be",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643105451768,
+        "stop" : 1643105451768,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "a8ec2b4a2206fdac",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105072153,
+        "stop" : 1643105073373,
+        "duration" : 1220
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "4a8ed7703b9b89b4",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105451764,
+        "stop" : 1643105451764,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "f12afe7a18634096",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096348817,
+        "stop" : 1643096348915,
+        "duration" : 98
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "f2fcbe7d1e3080d5",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105451704,
+        "stop" : 1643105451707,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "72202c5d577a1908",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621265978,
+        "stop" : 1643621265979,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "dcb7f5b64aafd635",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096345327,
+        "stop" : 1643096346651,
+        "duration" : 1324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "6658623a07f6517d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621265764,
+        "stop" : 1643621265978,
+        "duration" : 214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "394d174dd97bc581",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643105451699,
+        "stop" : 1643105451700,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "a899e5922650734",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
@@ -1023,591 +972,64 @@
       "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "6008dda3612112f2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105071585,
+        "stop" : 1643105071727,
+        "duration" : 142
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "dd64a5ffcf29fbd1",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105071727,
+        "stop" : 1643105071728,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a flash message saying Your username is invalid!",
+      "uid" : "39dbb5cdf589395d",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621913519,
+        "stop" : 1643621913641,
+        "duration" : 122
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.71" ]
     } ],
     "uid" : "27fa874cadc1574e37a07abb440963bd"
   }, {
     "name" : "0-0",
     "children" : [ {
-      "name" : "And I enter addressIndia",
-      "uid" : "7aa9b333556b94f3",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643787867702,
-        "stop" : 0,
-        "duration" : -1643787867702
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "273cc46b21a1a48c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643623348473,
-        "stop" : 1643623348475,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "ee0f0c56d7166350",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096168772,
-        "stop" : 1643096168772,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "When I login with tomsmith and SuperSecretPassword!",
-      "uid" : "1cd08cf9929e7eee",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096147975,
-        "stop" : 1643096165919,
-        "duration" : 17944
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "And I select hobbies Sports",
-      "uid" : "f3bf71ba6c059070",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643787867702,
-        "stop" : 0,
-        "duration" : -1643787867702
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
-      "uid" : "d749a9070afc6cc4",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643793407939,
-        "stop" : 1643793407940,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I enter MobileNumber6301550872 and subjectsPID",
-      "uid" : "2059c75d58395a7e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643793408240,
-        "stop" : 0,
-        "duration" : -1643793408240
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I enter MobileNumber6301550872 and subjectsPID",
-      "uid" : "db7c75bd8f8505a5",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643787867701,
-        "stop" : 0,
-        "duration" : -1643787867701
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
-      "uid" : "c526788819dbad02",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643714787379,
-        "stop" : 1643714802460,
-        "duration" : 15081
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "754cc3df772e6a5a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643793408247,
-        "stop" : 1643793408248,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 5,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Student Registration Form",
-      "uid" : "8adab44b7c741e53",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643828039188,
-        "stop" : 1643828039215,
-        "duration" : 27
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to login the site",
-      "uid" : "1ff98d8a18ba1d5c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643865940953,
-        "stop" : 1643865946334,
-        "duration" : 5381
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "As a user, I can open internet website",
-      "uid" : "528e47e7b44d834b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643827155195,
-        "stop" : 1643827155203,
-        "duration" : 8
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "2c5acab2257d5d49",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096166107,
-        "stop" : 1643096167051,
-        "duration" : 944
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Then I should see a header with text Welcome to the-internet",
-      "uid" : "bd444ffc2c4db408",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621902329,
-        "stop" : 1643621902415,
-        "duration" : 86
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
-      "uid" : "3a8aa50e27a5fd85",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643623348475,
-        "stop" : 1643623385199,
-        "duration" : 36724
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 3,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "User wants to login the site",
-      "uid" : "13b9af3c8c76e7a0",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643828788217,
-        "stop" : 1643828799285,
-        "duration" : 11068
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I select state AP and city Anantapur",
-      "uid" : "5a88460a8f4afb05",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643787867702,
-        "stop" : 0,
-        "duration" : -1643787867702
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "79105d141eac8ba3",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643622889651,
-        "stop" : 1643622889652,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "User wants to register in the site",
-      "uid" : "d75d86bc20418630",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643865929800,
-        "stop" : 1643865940952,
-        "duration" : 11152
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Then I should see a header with text Welcome to the-internet",
-      "uid" : "9a8aba21ae8fdf5e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643622924471,
-        "stop" : 1643622924536,
-        "duration" : 65
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "User wants to login the site",
-      "uid" : "4f3f045acd2d6ce2",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643819404177,
-        "stop" : 1643819407252,
-        "duration" : 3075
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I am on the login page",
-      "uid" : "c4e36c176254ffb6",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096142222,
-        "stop" : 1643096147974,
-        "duration" : 5752
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "ee4f8048a0024d04",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643787867704,
-        "stop" : 1643787867705,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "As a user, I can open internet website",
-      "uid" : "9b9cc3622f535027",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643870383549,
-        "stop" : 1643870383555,
-        "duration" : 6
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "37850a0c54e0ae0",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621885303,
-        "stop" : 1643621885305,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "71da07c7f4f04bfe",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621261806,
-        "stop" : 1643621261807,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "User wants to register in the sie",
-      "uid" : "b41dc0324af69421",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643824160357,
-        "stop" : 1643824180967,
-        "duration" : 20610
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to register in the site",
-      "uid" : "81c5ed090df1e6d2",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643829056225,
-        "stop" : 1643829095103,
-        "duration" : 38878
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "84f0fa62a983ed3d",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096166106,
-        "stop" : 1643096166107,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "204007dbd64dd38e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643623385254,
-        "stop" : 1643623385255,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 7,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "And I select state AP and city Anantapur",
-      "uid" : "ec66ff40463bf76a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643788096543,
-        "stop" : 0,
-        "duration" : -1643788096543
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I open the browser and load the url https://demoqa.com/automation-practice-form",
-      "uid" : "1f1eee003463d7ca",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643787583242,
-        "stop" : 1643787643343,
-        "duration" : 60101
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I click on submit button",
-      "uid" : "cec943408cd38c49",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643788096544,
-        "stop" : 0,
-        "duration" : -1643788096544
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
       "name" : "And I select gender Female",
-      "uid" : "3864560439c91950",
+      "uid" : "932b7b58b87ed63e",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -1623,116 +1045,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "When I login with foobar and barfoo",
-      "uid" : "c33cc18c1d83123b",
+      "name" : "User wants to register in the site",
+      "uid" : "a8313d22dcc7bbdc",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643096167051,
-        "stop" : 1643096168642,
-        "duration" : 1591
+        "start" : 1643829056225,
+        "stop" : 1643829095103,
+        "duration" : 38878
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
       "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
-      "uid" : "dda4453ebb5ffb4",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643787828532,
-        "stop" : 1643787867402,
-        "duration" : 38870
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "As a user, I can open internet website",
-      "uid" : "dde44ef89925ac36",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "failed",
-      "time" : {
-        "start" : 1643870508124,
-        "stop" : 1643870526690,
-        "duration" : 18566
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 3,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
-      "uid" : "d4d852dd7385fc2b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643622889653,
-        "stop" : 1643622924471,
-        "duration" : 34818
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "And I enter addressIndia",
-      "uid" : "a78141f727757cff",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643788096543,
-        "stop" : 0,
-        "duration" : -1643788096543
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I select hobbies Sports",
-      "uid" : "123c5cc794c44f09",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643793408241,
-        "stop" : 0,
-        "duration" : -1643793408241
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "User wants to register in the site",
-      "uid" : "a44e3eba46c8601f",
+      "uid" : "14de0d8513cfa429",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643870053773,
-        "stop" : 1643870070020,
-        "duration" : 16247
+        "start" : 1643865929800,
+        "stop" : 1643865940952,
+        "duration" : 11152
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1742,14 +1079,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
-      "uid" : "25597eafee9a6095",
+      "name" : "And I select gender Female",
+      "uid" : "b4624411e236c299",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1643793386938,
-        "stop" : 1643793402774,
-        "duration" : 15836
+        "start" : 1643793407940,
+        "stop" : 1643793408236,
+        "duration" : 296
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1759,110 +1096,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "User wants to login the site",
-      "uid" : "355b51e900a41f2d",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643828483330,
-        "stop" : 1643828494378,
-        "duration" : 11048
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Then I should see a header with text Welcome to the-internet",
-      "uid" : "20e70f1df521deb7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643623385199,
-        "stop" : 1643623385254,
-        "duration" : 55
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 3,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "d03d0d4b972e0419",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643793386936,
-        "stop" : 1643793386938,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I select hobbies Sports",
-      "uid" : "b37d8ee9e178c80",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643788096542,
-        "stop" : 0,
-        "duration" : -1643788096542
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "e5fd96bc3d3bab14",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643622924536,
-        "stop" : 1643622924537,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "Student Registration Form",
-      "uid" : "f2b8245060f09f3c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643826595694,
-        "stop" : 1643826595721,
-        "duration" : 27
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
       "name" : "Then I validat page header \"Practice Form\"",
-      "uid" : "1b2a7479c280824c",
+      "uid" : "44cf2c2c3b487229",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -1878,246 +1113,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "",
-      "uid" : "f39df05c1be5538c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643714802590,
-        "stop" : 1643714802590,
-        "duration" : 0
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I enter MobileNumber6301550872 and subjectsPID",
-      "uid" : "32e3271e18bd6755",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643788096541,
-        "stop" : 0,
-        "duration" : -1643788096541
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "5444bf59573d9675",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643788061949,
-        "stop" : 1643788061951,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to register in the sie",
-      "uid" : "d21a55582777a8a9",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643828472321,
-        "stop" : 1643828483329,
-        "duration" : 11008
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "As a user, I can open internet website",
-      "uid" : "38f74ae25755eb0e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "failed",
-      "time" : {
-        "start" : 1643869547062,
-        "stop" : 1643869565237,
-        "duration" : 18175
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to login the site",
-      "uid" : "f353f5622bd54b7e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643871983740,
-        "stop" : 1643871990154,
-        "duration" : 6414
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 11,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Then I should see a header with text Practice Form",
-      "uid" : "1d534739bebd517",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643787643344,
-        "stop" : 0,
-        "duration" : -1643787643344
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
-      "uid" : "9a23a5982a74a81b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643788096385,
-        "stop" : 1643788096388,
-        "duration" : 3
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "9ddd405b169f7ed9",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643788096544,
-        "stop" : 1643788096546,
-        "duration" : 2
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to register in the site",
-      "uid" : "3471d79e8baaf2b2",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643828775264,
-        "stop" : 1643828788216,
-        "duration" : 12952
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "5100564c69bedbea",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096142218,
-        "stop" : 1643096142221,
-        "duration" : 3
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "User wants to login the site",
-      "uid" : "c7b756f5f5ef02e1",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643864443544,
-        "stop" : 1643864456459,
-        "duration" : 12915
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
-      "uid" : "4d1e78ecfb71c2d7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621885306,
-        "stop" : 1643621902329,
-        "duration" : 17023
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "",
-      "uid" : "460f49518150b744",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621902415,
-        "stop" : 1643621902416,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
       "name" : "Then I should see a header with text Welcome to the-internet",
-      "uid" : "eb65d0058d840824",
+      "uid" : "c429573790557508",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -2133,161 +1130,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "User wants to login the site",
-      "uid" : "7dd707dc0813fb7b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643864639300,
-        "stop" : 1643864651233,
-        "duration" : 11933
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "5eda771efbf475e0",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096166072,
-        "stop" : 1643096166073,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "And I select gender Female",
-      "uid" : "515060d7f27b9b2c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643788096389,
-        "stop" : 1643788096541,
-        "duration" : 152
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "",
-      "uid" : "1052df5104ed7f8e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643715538488,
-        "stop" : 1643715538489,
-        "duration" : 1
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
-      "uid" : "a5d93bbb3612df63",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643621238981,
-        "stop" : 1643621261679,
-        "duration" : 22698
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.71" ]
-    }, {
-      "name" : "User wants to register in the site",
-      "uid" : "ae86a5d8bb25b971",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643864625487,
-        "stop" : 1643864639300,
-        "duration" : 13813
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to login the site",
-      "uid" : "458444270279fab5",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643824180967,
-        "stop" : 1643824195012,
-        "duration" : 14045
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to register in the site",
-      "uid" : "f0d53fd59f4d8374",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643828862105,
-        "stop" : 1643828878239,
-        "duration" : 16134
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
-      "uid" : "1aeeb2e185a902a7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643788061952,
-        "stop" : 1643788091250,
-        "duration" : 29298
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
       "name" : "Then I validat page header \"Practice Form\"",
-      "uid" : "1aa974a7364bb18b",
+      "uid" : "1a4d4cb4d47fa2bf",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -2304,75 +1148,41 @@
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "",
-      "uid" : "b87de3f7d27ff772",
+      "uid" : "74c319af80e3cccd",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643787828529,
-        "stop" : 1643787828532,
-        "duration" : 3
+        "start" : 1643793408247,
+        "stop" : 1643793408248,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the sie",
+      "uid" : "f1b1069dc8003f7a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643824160357,
+        "stop" : 1643824180967,
+        "duration" : 20610
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
       "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I click on submit button",
-      "uid" : "9813a29475162427",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643787867703,
-        "stop" : 0,
-        "duration" : -1643787867703
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I enter addressIndia",
-      "uid" : "af3dd33c6680bd65",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643793408243,
-        "stop" : 0,
-        "duration" : -1643793408243
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "And I click on submit button",
-      "uid" : "1292cbb445c0c62b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "unknown",
-      "time" : {
-        "start" : 1643793408246,
-        "stop" : 0,
-        "duration" : -1643793408246
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "",
-      "uid" : "b044cff5017ce04f",
+      "uid" : "868fe8ea9f946cd1",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -2388,31 +1198,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "Then I validat page header \"Practice Form\"",
-      "uid" : "4aa7b207a9132ae4",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643788091251,
-        "stop" : 1643788096384,
-        "duration" : 5133
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
       "name" : "",
-      "uid" : "c57b3d06affb7792",
+      "uid" : "58c5cbc9158e06aa",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643621238979,
-        "stop" : 1643621238981,
-        "duration" : 2
+        "start" : 1643621902415,
+        "stop" : 1643621902416,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2423,13 +1216,489 @@
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
       "name" : "User wants to register in the site",
-      "uid" : "c1303d43940d34c",
+      "uid" : "e0863dac174430d9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643873295033,
+        "stop" : 1643873302932,
+        "duration" : 7899
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I enter addressIndia",
+      "uid" : "e38b3fa492060183",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643793408243,
+        "stop" : 0,
+        "duration" : -1643793408243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Then I should see a header with text Welcome to the-internet",
+      "uid" : "241462de92b5ca26",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643864428935,
-        "stop" : 1643864443544,
-        "duration" : 14609
+        "start" : 1643623385199,
+        "stop" : 1643623385254,
+        "duration" : 55
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "f80feff91bbcb42",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643793386936,
+        "stop" : 1643793386938,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+      "uid" : "e73aeefb89dfdc68",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621885306,
+        "stop" : 1643621902329,
+        "duration" : 17023
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "As a user, I can open internet website",
+      "uid" : "d5b35c0f25e0f1bf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1643869547062,
+        "stop" : 1643869565237,
+        "duration" : 18175
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I enter MobileNumber6301550872 and subjectsPID",
+      "uid" : "1f094bc1ab52f0a8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787867701,
+        "stop" : 0,
+        "duration" : -1643787867701
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I enter MobileNumber6301550872 and subjectsPID",
+      "uid" : "eb8b781a923f185d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643793408240,
+        "stop" : 0,
+        "duration" : -1643793408240
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Then I should see a header with text Welcome to the-internet",
+      "uid" : "896ec4e5163e56b6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643622924471,
+        "stop" : 1643622924536,
+        "duration" : 65
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+      "uid" : "63f7074eebd106e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643623348475,
+        "stop" : 1643623385199,
+        "duration" : 36724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "88e399850109492a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643828862105,
+        "stop" : 1643828878239,
+        "duration" : 16134
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I select state AP and city Anantapur",
+      "uid" : "1e526d70c92abded",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787867702,
+        "stop" : 0,
+        "duration" : -1643787867702
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "1fbaa7cfd4630d99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643787867704,
+        "stop" : 1643787867705,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "f6bdee9699872be7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643788096544,
+        "stop" : 1643788096546,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "11df0b6de1b33cc1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643873355509,
+        "stop" : 1643873362323,
+        "duration" : 6814
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "9a6fe1a24bcbf7b7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643622924536,
+        "stop" : 1643622924537,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "551e600923d4deb6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643715521047,
+        "stop" : 1643715521049,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "b4cb152038d90890",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621885303,
+        "stop" : 1643621885305,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "And I enter addressIndia",
+      "uid" : "bdb91656ffbbe1bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787867702,
+        "stop" : 0,
+        "duration" : -1643787867702
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "As a user, I can open internet website",
+      "uid" : "a42535b15a0bf1b1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643827155195,
+        "stop" : 1643827155203,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I enter MobileNumber6301550872 and subjectsPID",
+      "uid" : "ab6d264ce2f005e2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643788096541,
+        "stop" : 0,
+        "duration" : -1643788096541
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "As a user, I can open internet website",
+      "uid" : "fa125da4141046ee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643870383549,
+        "stop" : 1643870383555,
+        "duration" : 6
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Then I should see a header with text Practice Form",
+      "uid" : "375ec2eedcfa227c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643715538414,
+        "stop" : 1643715538488,
+        "duration" : 74
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "As a user, I can open internet website",
+      "uid" : "d0ea60ca9317c463",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1643870508124,
+        "stop" : 1643870526690,
+        "duration" : 18566
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 3,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "9644ebe6c068ff0c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096142222,
+        "stop" : 1643096147974,
+        "duration" : 5752
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the sie",
+      "uid" : "122df9f9677d89b2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643828472321,
+        "stop" : 1643828483329,
+        "duration" : 11008
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "3647ba65784b13e9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643788061949,
+        "stop" : 1643788061951,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "7b56e18da1d0815e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643864639300,
+        "stop" : 1643864651233,
+        "duration" : 11933
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "f540c699b104a01e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1644231922531,
+        "stop" : 1644231932263,
+        "duration" : 9732
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2440,13 +1709,64 @@
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "Given I open the browser and load the url https://demoqa.com/automation-practice-form",
-      "uid" : "e1df6067296051cd",
+      "uid" : "287c6b17cdce984a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643787583242,
+        "stop" : 1643787643343,
+        "duration" : 60101
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "When I login with foobar and barfoo",
+      "uid" : "cc381a75ab7c9dca",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643715521049,
-        "stop" : 1643715538414,
-        "duration" : 17365
+        "start" : 1643096167051,
+        "stop" : 1643096168642,
+        "duration" : 1591
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+      "uid" : "6d524371636ebd87",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621238981,
+        "stop" : 1643621261679,
+        "duration" : 22698
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "d10f3bea72176da4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643873432140,
+        "stop" : 1643873439031,
+        "duration" : 6891
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2456,8 +1776,93 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
+      "name" : "Student Registration Form",
+      "uid" : "8b9d7e994c8c6519",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643826595694,
+        "stop" : 1643826595721,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "48b66a7d328f6f84",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643828935579,
+        "stop" : 1643828946745,
+        "duration" : 11166
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "81ec79631b034db1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643828788217,
+        "stop" : 1643828799285,
+        "duration" : 11068
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Given I am on the login page",
+      "uid" : "f5bb4a0f6b6e3176",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096166107,
+        "stop" : 1643096167051,
+        "duration" : 944
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "Then I should see a header with text Practice Form",
+      "uid" : "ed535036f2307988",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787643344,
+        "stop" : 0,
+        "duration" : -1643787643344
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
       "name" : "Then I should see a header with text Welcome to the-internet",
-      "uid" : "3cdceaea39aa81e3",
+      "uid" : "8d429d410f01421d",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -2473,8 +1878,76 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
+      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+      "uid" : "e41a3503fb688975",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643714787379,
+        "stop" : 1643714802460,
+        "duration" : 15081
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "6305f466f5f7c225",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644232204451,
+        "stop" : 1644232215845,
+        "duration" : 11394
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "e2015e2aa6a2a6de",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643865940953,
+        "stop" : 1643865946334,
+        "duration" : 5381
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "4e8dfdda8aecafbb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643623385254,
+        "stop" : 1643623385255,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
       "name" : "Then I should see a flash message saying Your username is invalid!",
-      "uid" : "1e4af72835216980",
+      "uid" : "3a86b4c9aeea803b",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -2490,48 +1963,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
-      "name" : "",
-      "uid" : "b37e63d0e7717f69",
+      "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+      "uid" : "f050e649128022f4",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643714787367,
-        "stop" : 1643714787378,
-        "duration" : 11
+        "start" : 1643788061952,
+        "stop" : 1643788091250,
+        "duration" : 29298
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
       "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to register in the site",
-      "uid" : "c7fc27a3360d78a7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643871972004,
-        "stop" : 1643871983740,
-        "duration" : 11736
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 8,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "User wants to login the site",
-      "uid" : "bec2766e58af0b3c",
+      "uid" : "2f857a138edc1a4",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1643870070021,
-        "stop" : 1643870076750,
-        "duration" : 6729
+        "start" : 1643864443544,
+        "stop" : 1643864456459,
+        "duration" : 12915
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2541,8 +1997,59 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
+      "name" : "Then I validat page header \"Practice Form\"",
+      "uid" : "6ed23c83337ba573",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643788091251,
+        "stop" : 1643788096384,
+        "duration" : 5133
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I select state AP and city Anantapur",
+      "uid" : "153a5085ad473f67",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643788096543,
+        "stop" : 0,
+        "duration" : -1643788096543
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+      "uid" : "7d95885358ecd08f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643793386938,
+        "stop" : 1643793402774,
+        "duration" : 15836
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
       "name" : "And I select state NCR and city Delhi",
-      "uid" : "c552e3167a106e04",
+      "uid" : "c6452b16a64b1618",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "unknown",
       "time" : {
@@ -2559,7 +2066,517 @@
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "",
-      "uid" : "bb9e2257df1cc041",
+      "uid" : "4723e0e5e4a4253e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643714787367,
+        "stop" : 1643714787378,
+        "duration" : 11
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "c503e65cf44b6c6b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644244605127,
+        "stop" : 1644244616100,
+        "duration" : 10973
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 19,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "b6ba1cd13e68f96a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643828878240,
+        "stop" : 1643828889541,
+        "duration" : 11301
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Then I should see a flash message saying You logged into a secure area!",
+      "uid" : "71bd3acae6d7808f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096165919,
+        "stop" : 1643096166072,
+        "duration" : 153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "59227c2a44b1aa62",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643871972004,
+        "stop" : 1643871983740,
+        "duration" : 11736
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
+      "uid" : "5bf13f014ca3189d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643787867515,
+        "stop" : 1643787867520,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I click on submit button",
+      "uid" : "4a9c22ff8cb467f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787867703,
+        "stop" : 0,
+        "duration" : -1643787867703
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I select hobbies Sports",
+      "uid" : "c06bfeb5d5119ed5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787867702,
+        "stop" : 0,
+        "duration" : -1643787867702
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+      "uid" : "98fcf78fb0c8c378",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643622889653,
+        "stop" : 1643622924471,
+        "duration" : 34818
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "f5308d2968521cd1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643824180967,
+        "stop" : 1643824195012,
+        "duration" : 14045
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the sie",
+      "uid" : "98d2a3a4356ad506",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643819394650,
+        "stop" : 1643819404176,
+        "duration" : 9526
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I select gender Female",
+      "uid" : "422488b0e7cb1ee8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643788096389,
+        "stop" : 1643788096541,
+        "duration" : 152
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I select hobbies Sports",
+      "uid" : "68714e04a8175f2f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643793408241,
+        "stop" : 0,
+        "duration" : -1643793408241
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
+      "uid" : "f3f0aced50b8181c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643793407939,
+        "stop" : 1643793407940,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "And I click on submit button",
+      "uid" : "70fec5958971159d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643793408246,
+        "stop" : 0,
+        "duration" : -1643793408246
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "When I login with tomsmith and SuperSecretPassword!",
+      "uid" : "d90445bbbd934e99",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096147975,
+        "stop" : 1643096165919,
+        "duration" : 17944
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "987a7180319f8d48",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643873421500,
+        "stop" : 1643873432140,
+        "duration" : 10640
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "4e50e4da773fd60f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643864625487,
+        "stop" : 1643864639300,
+        "duration" : 13813
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "420e238dee562039",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643623348473,
+        "stop" : 1643623348475,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "a219c83ab8604976",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643828905300,
+        "stop" : 1643828935579,
+        "duration" : 30279
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "b1f9af6e66442d49",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1644231932266,
+        "stop" : 1644231942311,
+        "duration" : 10045
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Then I should see a header with text Welcome to the-internet",
+      "uid" : "361793b2c225d74f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621902329,
+        "stop" : 1643621902415,
+        "duration" : 86
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "c466e0b44aca26b7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643828775264,
+        "stop" : 1643828788216,
+        "duration" : 12952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
+      "uid" : "b12f6454c09bb3f7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643788096385,
+        "stop" : 1643788096388,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "f6fa338fee5cc72d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1644231624280,
+        "stop" : 1644231643115,
+        "duration" : 18835
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "20d68c6ba1ea252a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644232215845,
+        "stop" : 1644232223348,
+        "duration" : 7503
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "df82fc343fd62d65",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096168772,
+        "stop" : 1643096168772,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "And I select hobbies Sports",
+      "uid" : "419356b9dab1cb10",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643788096542,
+        "stop" : 0,
+        "duration" : -1643788096542
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "afb0d7620fe45a86",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096166072,
+        "stop" : 1643096166073,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "And I click on submit button",
+      "uid" : "71bc6d188aaad79c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643788096544,
+        "stop" : 0,
+        "duration" : -1643788096544
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "b948d278c5b5a136",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -2576,13 +2593,30 @@
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "",
-      "uid" : "10e7ee3ccdbe58cd",
+      "uid" : "f714f87cc505bb9e",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643715521047,
-        "stop" : 1643715521049,
-        "duration" : 2
+        "start" : 1643714802590,
+        "stop" : 1643714802590,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Given I open the browser and load the url https://demoqa.com/automation-practice-form",
+      "uid" : "4a2f8dcd3f12f780",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643715521049,
+        "stop" : 1643715538414,
+        "duration" : 17365
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2593,7 +2627,109 @@
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "User wants to login the site",
-      "uid" : "c5ea71dd496ed170",
+      "uid" : "b15dd729581d523f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643873302941,
+        "stop" : 1643873313057,
+        "duration" : 10116
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "42c8125a8e10e65a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643622889651,
+        "stop" : 1643622889652,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "bae968166b5a56d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643872592680,
+        "stop" : 1643872605546,
+        "duration" : 12866
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Student Registration Form",
+      "uid" : "73e4383f842527fa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643828039188,
+        "stop" : 1643828039215,
+        "duration" : 27
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "6ee5db9eae6a22c6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643870053773,
+        "stop" : 1643870070020,
+        "duration" : 16247
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "e4ccd1d2a57c1ebb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643787828529,
+        "stop" : 1643787828532,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "e909701533e9c783",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -2609,14 +2745,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "User wants to register in the sie",
-      "uid" : "20839a9c2c0a50c1",
+      "name" : "And I enter addressIndia",
+      "uid" : "e15b4be6378340f2",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
+      "status" : "unknown",
       "time" : {
-        "start" : 1643819394650,
-        "stop" : 1643819404176,
-        "duration" : 9526
+        "start" : 1643788096543,
+        "stop" : 0,
+        "duration" : -1643788096543
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2627,13 +2763,13 @@
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
       "name" : "User wants to login the site",
-      "uid" : "28db637a605bf7a8",
+      "uid" : "6142f7599ce09a49",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1643828935579,
-        "stop" : 1643828946745,
-        "duration" : 11166
+        "start" : 1643870070021,
+        "stop" : 1643870076750,
+        "duration" : 6729
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2643,14 +2779,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
-      "uid" : "814645172b3fd39",
+      "name" : "",
+      "uid" : "7919744b71013bdc",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643787867515,
-        "stop" : 1643787867520,
-        "duration" : 5
+        "start" : 1643715538488,
+        "stop" : 1643715538489,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2660,48 +2796,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "And I select gender Female",
-      "uid" : "a9da4e34cd1407ca",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1643793407940,
-        "stop" : 1643793408236,
-        "duration" : 296
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 2,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "User wants to register in the site",
-      "uid" : "1bc7555ba362011d",
+      "name" : "",
+      "uid" : "b708b60956bc7894",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643828905300,
-        "stop" : 1643828935579,
-        "duration" : 30279
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-97.0.4692.99" ]
-    }, {
-      "name" : "Then I should see a flash message saying You logged into a secure area!",
-      "uid" : "e1db31c8f5a8618",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1643096165919,
-        "stop" : 1643096166072,
-        "duration" : 153
+        "start" : 1643096166106,
+        "stop" : 1643096166107,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2711,14 +2813,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.71" ]
     }, {
-      "name" : "User wants to login the site",
-      "uid" : "efa639712497883b",
+      "name" : "User wants to register in the site",
+      "uid" : "69bd91479875406b",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1643828878240,
-        "stop" : 1643828889541,
-        "duration" : 11301
+        "start" : 1643864428935,
+        "stop" : 1643864443544,
+        "duration" : 14609
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2728,14 +2830,65 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
     }, {
-      "name" : "Then I should see a header with text Practice Form",
-      "uid" : "9ff8b5106d5df594",
+      "name" : "",
+      "uid" : "68a24f47730435b3",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1643715538414,
-        "stop" : 1643715538488,
-        "duration" : 74
+        "start" : 1643621261806,
+        "stop" : 1643621261807,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "",
+      "uid" : "1f904cbf7f9c69e3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096142218,
+        "stop" : 1643096142221,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "User wants to register in the site",
+      "uid" : "d03682c679efc855",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1644244592892,
+        "stop" : 1644244605126,
+        "duration" : 12234
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 16,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "a529168483f02695",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643872605547,
+        "stop" : 1643872612845,
+        "duration" : 7298
       },
       "flaky" : false,
       "newFailed" : false,
@@ -2744,6 +2897,125 @@
       "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "21a73054959ed30e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643873362334,
+        "stop" : 1643873372445,
+        "duration" : 10111
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "91a2c5a9172598ab",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1643828483330,
+        "stop" : 1643828494378,
+        "duration" : 11048
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "26439827bae5af97",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643819404177,
+        "stop" : 1643819407252,
+        "duration" : 3075
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "97f34741133741af",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643871983740,
+        "stop" : 1643871990154,
+        "duration" : 6414
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "User wants to login the site",
+      "uid" : "6dadb969810ab4dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1644231643118,
+        "stop" : 1644231653183,
+        "duration" : 10065
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+      "uid" : "7f337d6b9ae47fc7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643787828532,
+        "stop" : 1643787867402,
+        "duration" : 38870
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.99" ]
+    }, {
+      "name" : "",
+      "uid" : "5937282763725ef7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621238979,
+        "stop" : 1643621238981,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
     } ],
     "uid" : "516fe00eea05ad99e936fa729b55eff4"
   } ]

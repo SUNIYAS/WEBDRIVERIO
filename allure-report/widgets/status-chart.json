@@ -1,75 +1,5 @@
 [ {
-  "uid" : "123c5cc794c44f09",
-  "name" : "And I select hobbies Sports",
-  "time" : {
-    "start" : 1643793408241,
-    "stop" : 0,
-    "duration" : -1643793408241
-  },
-  "status" : "unknown",
-  "severity" : "normal"
-}, {
-  "uid" : "bf6f1b47aaf82c85",
-  "name" : "Given I am on the login page",
-  "time" : {
-    "start" : 1643621909309,
-    "stop" : 1643621910637,
-    "duration" : 1328
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c526788819dbad02",
-  "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
-  "time" : {
-    "start" : 1643714787379,
-    "stop" : 1643714802460,
-    "duration" : 15081
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bb9e2257df1cc041",
-  "name" : "",
-  "time" : {
-    "start" : 1643787643345,
-    "stop" : 1643787643347,
-    "duration" : 2
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "dde44ef89925ac36",
-  "name" : "As a user, I can open internet website",
-  "time" : {
-    "start" : 1643870508124,
-    "stop" : 1643870526690,
-    "duration" : 18566
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "d749a9070afc6cc4",
-  "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
-  "time" : {
-    "start" : 1643793407939,
-    "stop" : 1643793407940,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f353f5622bd54b7e",
-  "name" : "User wants to login the site",
-  "time" : {
-    "start" : 1643871983740,
-    "stop" : 1643871990154,
-    "duration" : 6414
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "af3dd33c6680bd65",
+  "uid" : "e38b3fa492060183",
   "name" : "And I enter addressIndia",
   "time" : {
     "start" : 1643793408243,
@@ -79,167 +9,7 @@
   "status" : "unknown",
   "severity" : "normal"
 }, {
-  "uid" : "6ff68aeedef3a3ca",
-  "name" : "Then I should see a flash message saying You logged into a secure area!",
-  "time" : {
-    "start" : 1643621909139,
-    "stop" : 1643621909282,
-    "duration" : 143
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6479ffb625ebac90",
-  "name" : "",
-  "time" : {
-    "start" : 1643621913642,
-    "stop" : 1643621913643,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8adab44b7c741e53",
-  "name" : "Student Registration Form",
-  "time" : {
-    "start" : 1643828039188,
-    "stop" : 1643828039215,
-    "duration" : 27
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "1f1eee003463d7ca",
-  "name" : "Given I open the browser and load the url https://demoqa.com/automation-practice-form",
-  "time" : {
-    "start" : 1643787583242,
-    "stop" : 1643787643343,
-    "duration" : 60101
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "3a8aa50e27a5fd85",
-  "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
-  "time" : {
-    "start" : 1643623348475,
-    "stop" : 1643623385199,
-    "duration" : 36724
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d21a55582777a8a9",
-  "name" : "User wants to register in the sie",
-  "time" : {
-    "start" : 1643828472321,
-    "stop" : 1643828483329,
-    "duration" : 11008
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1d534739bebd517",
-  "name" : "Then I should see a header with text Practice Form",
-  "time" : {
-    "start" : 1643787643344,
-    "stop" : 0,
-    "duration" : -1643787643344
-  },
-  "status" : "unknown",
-  "severity" : "normal"
-}, {
-  "uid" : "a047dad354ff6cab",
-  "name" : "When I login with foobar and barfoo",
-  "time" : {
-    "start" : 1643621910638,
-    "stop" : 1643621913519,
-    "duration" : 2881
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c7fc27a3360d78a7",
-  "name" : "User wants to register in the site",
-  "time" : {
-    "start" : 1643871972004,
-    "stop" : 1643871983740,
-    "duration" : 11736
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "269261f7912da4c9",
-  "name" : "Then I should see a flash message saying Your username is invalid!",
-  "time" : {
-    "start" : 1643621913519,
-    "stop" : 1643621913641,
-    "duration" : 122
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "4ba5daf6c2215d00",
-  "name" : "When I login with tomsmith and SuperSecretPassword!",
-  "time" : {
-    "start" : 1643621906870,
-    "stop" : 1643621909139,
-    "duration" : 2269
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c552e3167a106e04",
-  "name" : "And I select state NCR and city Delhi",
-  "time" : {
-    "start" : 1643793408244,
-    "stop" : 0,
-    "duration" : -1643793408244
-  },
-  "status" : "unknown",
-  "severity" : "normal"
-}, {
-  "uid" : "25597eafee9a6095",
-  "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
-  "time" : {
-    "start" : 1643793386938,
-    "stop" : 1643793402774,
-    "duration" : 15836
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2059c75d58395a7e",
-  "name" : "And I enter MobileNumber6301550872 and subjectsPID",
-  "time" : {
-    "start" : 1643793408240,
-    "stop" : 0,
-    "duration" : -1643793408240
-  },
-  "status" : "unknown",
-  "severity" : "normal"
-}, {
-  "uid" : "ec66ff40463bf76a",
-  "name" : "And I select state AP and city Anantapur",
-  "time" : {
-    "start" : 1643788096543,
-    "stop" : 0,
-    "duration" : -1643788096543
-  },
-  "status" : "unknown",
-  "severity" : "normal"
-}, {
-  "uid" : "204007dbd64dd38e",
-  "name" : "",
-  "time" : {
-    "start" : 1643623385254,
-    "stop" : 1643623385255,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "20e70f1df521deb7",
+  "uid" : "241462de92b5ca26",
   "name" : "Then I should see a header with text Welcome to the-internet",
   "time" : {
     "start" : 1643623385199,
@@ -249,7 +19,107 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1292cbb445c0c62b",
+  "uid" : "cf253ffa9f356505",
+  "name" : "",
+  "time" : {
+    "start" : 1643621913642,
+    "stop" : 1643621913643,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed535036f2307988",
+  "name" : "Then I should see a header with text Practice Form",
+  "time" : {
+    "start" : 1643787643344,
+    "stop" : 0,
+    "duration" : -1643787643344
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "ca14564f12642b5",
+  "name" : "Then I should see a flash message saying You logged into a secure area!",
+  "time" : {
+    "start" : 1643621909139,
+    "stop" : 1643621909282,
+    "duration" : 143
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39dbb5cdf589395d",
+  "name" : "Then I should see a flash message saying Your username is invalid!",
+  "time" : {
+    "start" : 1643621913519,
+    "stop" : 1643621913641,
+    "duration" : 122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68714e04a8175f2f",
+  "name" : "And I select hobbies Sports",
+  "time" : {
+    "start" : 1643793408241,
+    "stop" : 0,
+    "duration" : -1643793408241
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "5c3208456725f790",
+  "name" : "When I login with tomsmith and SuperSecretPassword!",
+  "time" : {
+    "start" : 1643621906870,
+    "stop" : 1643621909139,
+    "duration" : 2269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b948d278c5b5a136",
+  "name" : "",
+  "time" : {
+    "start" : 1643787643345,
+    "stop" : 1643787643347,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74c319af80e3cccd",
+  "name" : "",
+  "time" : {
+    "start" : 1643793408247,
+    "stop" : 1643793408248,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "287c6b17cdce984a",
+  "name" : "Given I open the browser and load the url https://demoqa.com/automation-practice-form",
+  "time" : {
+    "start" : 1643787583242,
+    "stop" : 1643787643343,
+    "duration" : 60101
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "122df9f9677d89b2",
+  "name" : "User wants to register in the sie",
+  "time" : {
+    "start" : 1643828472321,
+    "stop" : 1643828483329,
+    "duration" : 11008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70fec5958971159d",
   "name" : "And I click on submit button",
   "time" : {
     "start" : 1643793408246,
@@ -259,7 +129,7 @@
   "status" : "unknown",
   "severity" : "normal"
 }, {
-  "uid" : "eb65d0058d840824",
+  "uid" : "c429573790557508",
   "name" : "Then I should see a header with text Welcome to the-internet",
   "time" : {
     "start" : 1643714802460,
@@ -269,7 +139,97 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1aa974a7364bb18b",
+  "uid" : "e41a3503fb688975",
+  "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+  "time" : {
+    "start" : 1643714787379,
+    "stop" : 1643714802460,
+    "duration" : 15081
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c503e65cf44b6c6b",
+  "name" : "User wants to login the site",
+  "time" : {
+    "start" : 1644244605127,
+    "stop" : 1644244616100,
+    "duration" : 10973
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73e4383f842527fa",
+  "name" : "Student Registration Form",
+  "time" : {
+    "start" : 1643828039188,
+    "stop" : 1643828039215,
+    "duration" : 27
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "eb8b781a923f185d",
+  "name" : "And I enter MobileNumber6301550872 and subjectsPID",
+  "time" : {
+    "start" : 1643793408240,
+    "stop" : 0,
+    "duration" : -1643793408240
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "153a5085ad473f67",
+  "name" : "And I select state AP and city Anantapur",
+  "time" : {
+    "start" : 1643788096543,
+    "stop" : 0,
+    "duration" : -1643788096543
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "7d95885358ecd08f",
+  "name" : "Given I am on practice page \"https://demoqa.com/automation-practice-form\"",
+  "time" : {
+    "start" : 1643793386938,
+    "stop" : 1643793402774,
+    "duration" : 15836
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e8dfdda8aecafbb",
+  "name" : "",
+  "time" : {
+    "start" : 1643623385254,
+    "stop" : 1643623385255,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "307548d49b88823d",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1643621909309,
+    "stop" : 1643621910637,
+    "duration" : 1328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63f7074eebd106e7",
+  "name" : "Given I open the browser and load the url https://the-internet.herokuapp.com/",
+  "time" : {
+    "start" : 1643623348475,
+    "stop" : 1643623385199,
+    "duration" : 36724
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a4d4cb4d47fa2bf",
   "name" : "Then I validat page header \"Practice Form\"",
   "time" : {
     "start" : 1643793402774,
@@ -279,7 +239,47 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a9da4e34cd1407ca",
+  "uid" : "9e9e38280308a930",
+  "name" : "When I login with foobar and barfoo",
+  "time" : {
+    "start" : 1643621910638,
+    "stop" : 1643621913519,
+    "duration" : 2881
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3f0aced50b8181c",
+  "name" : "When I enter firstname Emma and lastname watson and Email <userEmail>",
+  "time" : {
+    "start" : 1643793407939,
+    "stop" : 1643793407940,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6452b16a64b1618",
+  "name" : "And I select state NCR and city Delhi",
+  "time" : {
+    "start" : 1643793408244,
+    "stop" : 0,
+    "duration" : -1643793408244
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "d03682c679efc855",
+  "name" : "User wants to register in the site",
+  "time" : {
+    "start" : 1644244592892,
+    "stop" : 1644244605126,
+    "duration" : 12234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4624411e236c299",
   "name" : "And I select gender Female",
   "time" : {
     "start" : 1643793407940,
@@ -289,13 +289,13 @@
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "754cc3df772e6a5a",
-  "name" : "",
+  "uid" : "d0ea60ca9317c463",
+  "name" : "As a user, I can open internet website",
   "time" : {
-    "start" : 1643793408247,
-    "stop" : 1643793408248,
-    "duration" : 1
+    "start" : 1643870508124,
+    "stop" : 1643870526690,
+    "duration" : 18566
   },
-  "status" : "passed",
+  "status" : "failed",
   "severity" : "normal"
 } ]

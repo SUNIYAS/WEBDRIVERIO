@@ -1,0 +1,118 @@
+{
+  "uid" : "44cf2c2c3b487229",
+  "name" : "Then I validat page header \"Practice Form\"",
+  "fullName" : "Practice Form: Student Registration Form.Then I validat page header \"Practice Form\"",
+  "historyId" : "7480a590cb8153c5bcf94338c6bd71ed",
+  "time" : {
+    "start" : 1643787867402,
+    "stop" : 1643787867515,
+    "duration" : 113
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643787867405,
+        "stop" : 1643787867469,
+        "duration" : 64
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e90eb302a26b789d",
+        "name" : "Request",
+        "source" : "e90eb302a26b789d.json",
+        "type" : "application/json",
+        "size" : 56
+      }, {
+        "uid" : "a81b150d5145e03d",
+        "name" : "Response",
+        "source" : "a81b150d5145e03d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/803613bc-cd69-4224-ae71-16a26f6e129c/text",
+      "time" : {
+        "start" : 1643787867480,
+        "stop" : 1643787867509,
+        "duration" : 29
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "6c075e981a4670a",
+        "name" : "Response",
+        "source" : "6c075e981a4670a.json",
+        "type" : "application/json",
+        "size" : 15
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validat page header \"Practice Form\""
+  }, {
+    "name" : "package",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44cf2c2c3b487229.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "f714f87cc505bb9e",
+  "name" : "",
+  "fullName" : "The Internet website homepage: As a user, I can open internet website.",
+  "historyId" : "d7478d5a1e82b4041b74d4fd96319b81",
+  "time" : {
+    "start" : 1643714802590,
+    "stop" : 1643714802590,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f714f87cc505bb9e.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

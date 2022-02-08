@@ -1,0 +1,199 @@
+{
+  "uid" : "307548d49b88823d",
+  "name" : "Given I am on the login page",
+  "fullName" : "The Internet Guinea Pig Website: As a user, I can log into the secure area.Given I am on the login page",
+  "historyId" : "713b24cd259ec754a551fff589b0e687",
+  "time" : {
+    "start" : 1643621909309,
+    "stop" : 1643621910637,
+    "duration" : 1328
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1643621909311,
+        "stop" : 1643621910636,
+        "duration" : 1325
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "30b7d18ee54e07ac",
+        "name" : "Request",
+        "source" : "30b7d18ee54e07ac.json",
+        "type" : "application/json",
+        "size" : 55
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page"
+  }, {
+    "name" : "package",
+    "value" : "The Internet Guinea Pig Website: As a user, I can log into the secure area"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b55abfebea223bc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621885319,
+        "stop" : 1643621906869,
+        "duration" : 21550
+      }
+    }, {
+      "uid" : "9b57c4ac52b1634e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621266027,
+        "stop" : 1643621266581,
+        "duration" : 554
+      }
+    }, {
+      "uid" : "f5f09d93ba23c83a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643621239028,
+        "stop" : 1643621263931,
+        "duration" : 24903
+      }
+    }, {
+      "uid" : "ae60e274a91ec523",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107497378,
+        "stop" : 1643107497734,
+        "duration" : 356
+      }
+    }, {
+      "uid" : "b3a58776492d962f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643107491306,
+        "stop" : 1643107495933,
+        "duration" : 4627
+      }
+    }, {
+      "uid" : "d03f7e4791263fce",
+      "status" : "broken",
+      "statusDetails" : "Step \"I am on the login page\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1643105451764,
+        "stop" : 1643105451765,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "394d174dd97bc581",
+      "status" : "broken",
+      "statusDetails" : "Step \"I am on the login page\" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.",
+      "time" : {
+        "start" : 1643105451699,
+        "stop" : 1643105451700,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cf421c15437ca9f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105071755,
+        "stop" : 1643105072153,
+        "duration" : 398
+      }
+    }, {
+      "uid" : "e1ecacd86786a2ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643105064311,
+        "stop" : 1643105069802,
+        "duration" : 5491
+      }
+    }, {
+      "uid" : "3ec3389700adc067",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096346845,
+        "stop" : 1643096347573,
+        "duration" : 728
+      }
+    }, {
+      "uid" : "a3fbc9101d4ba330",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096339257,
+        "stop" : 1643096345326,
+        "duration" : 6069
+      }
+    }, {
+      "uid" : "f5bb4a0f6b6e3176",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096166107,
+        "stop" : 1643096167051,
+        "duration" : 944
+      }
+    }, {
+      "uid" : "9644ebe6c068ff0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643096142222,
+        "stop" : 1643096147974,
+        "duration" : 5752
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "307548d49b88823d.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

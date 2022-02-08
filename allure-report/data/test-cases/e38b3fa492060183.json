@@ -1,0 +1,78 @@
+{
+  "uid" : "e38b3fa492060183",
+  "name" : "And I enter addressIndia",
+  "fullName" : "Practice Form: Student Registration Form.And I enter addressIndia",
+  "historyId" : "ed6a83f56cf0d2619c4c0fd670760281",
+  "time" : {
+    "start" : 1643793408243,
+    "stop" : 0,
+    "duration" : -1643793408243
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testClass",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I enter addressIndia"
+  }, {
+    "name" : "package",
+    "value" : "Practice Form: Student Registration Form"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "e15b4be6378340f2",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643788096543,
+        "stop" : 0,
+        "duration" : -1643788096543
+      }
+    }, {
+      "uid" : "bdb91656ffbbe1bc",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1643787867702,
+        "stop" : 0,
+        "duration" : -1643787867702
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e38b3fa492060183.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}

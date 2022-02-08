@@ -1,0 +1,118 @@
+{
+  "uid" : "896ec4e5163e56b6",
+  "name" : "Then I should see a header with text Welcome to the-internet",
+  "fullName" : "The Internet website homepage: As a user, I can open internet website.Then I should see a header with text Welcome to the-internet",
+  "historyId" : "c35c47bf0147d79bb34dceaf23efc852",
+  "time" : {
+    "start" : 1643622924471,
+    "stop" : 1643622924536,
+    "duration" : 65
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1643622924474,
+        "stop" : 1643622924504,
+        "duration" : 30
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4cdb6c55d92f7da0",
+        "name" : "Request",
+        "source" : "4cdb6c55d92f7da0.json",
+        "type" : "application/json",
+        "size" : 52
+      }, {
+        "uid" : "7123770a80dc0eaf",
+        "name" : "Response",
+        "source" : "7123770a80dc0eaf.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "GET /session/:sessionId/element/d17ffccd-798e-4442-ae62-21fe031bdb2a/text",
+      "time" : {
+        "start" : 1643622924513,
+        "stop" : 1643622924531,
+        "duration" : 18
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9eaa4da0a99a09aa",
+        "name" : "Response",
+        "source" : "9eaa4da0a99a09aa.json",
+        "type" : "application/json",
+        "size" : 25
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "testClass",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I should see a header with text Welcome to the-internet"
+  }, {
+    "name" : "package",
+    "value" : "The Internet website homepage: As a user, I can open internet website"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "896ec4e5163e56b6.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

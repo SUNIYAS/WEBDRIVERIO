@@ -1,0 +1,177 @@
+{
+  "uid" : "f6fa338fee5cc72d",
+  "name" : "User wants to register in the site",
+  "fullName" : "User want to test demotours.User wants to register in the site",
+  "historyId" : "6ae539582cc2bd7a461806cab943db40",
+  "time" : {
+    "start" : 1644231624280,
+    "stop" : 1644231643115,
+    "duration" : 18835
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Error: Can't call setValue on element with selector \"[name=\"postalcode\"]\" because element wasn't found",
+  "statusTrace" : "Error: Can't call setValue on element with selector \"[name=\"postalcode\"]\" because element wasn't found\n                    at implicitWait (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\webdriverio\\build\\middlewares.js:20:29)\n                    at async Element.wrapCommandFn (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\@wdio\\utils\\build\\shim.js:131:29)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Error: Can't call setValue on element with selector \"[name=\"postalcode\"]\" because element wasn't found",
+    "statusTrace" : "Error: Can't call setValue on element with selector \"[name=\"postalcode\"]\" because element wasn't found\n                    at implicitWait (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\webdriverio\\build\\middlewares.js:20:29)\n                    at async Element.wrapCommandFn (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\@wdio\\utils\\build\\shim.js:131:29)",
+    "steps" : [ {
+      "name" : "Given User is on Home page of new tours",
+      "time" : {
+        "start" : 1644231624286,
+        "stop" : 1644231631621,
+        "duration" : 7335
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "maximizing window",
+        "time" : {
+          "start" : 1644231629819,
+          "stop" : 1644231629819,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      }, {
+        "name" : "loading the link",
+        "time" : {
+          "start" : 1644231631397,
+          "stop" : 1644231631397,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "d774ed246184041a",
+        "name" : "Screenshot",
+        "source" : "d774ed246184041a.png",
+        "type" : "image/png",
+        "size" : 157867
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 2,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "When user is on registration and enters contact information",
+      "time" : {
+        "start" : 1644231631621,
+        "stop" : 1644231632614,
+        "duration" : 993
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "added my details",
+        "time" : {
+          "start" : 1644231632373,
+          "stop" : 1644231632373,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "hasContent" : false,
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "3b7ab955c4a7be82",
+        "name" : "Screenshot",
+        "source" : "3b7ab955c4a7be82.png",
+        "type" : "image/png",
+        "size" : 163409
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "And user enters mailing information",
+      "time" : {
+        "start" : 1644231632615,
+        "stop" : 1644231643114,
+        "duration" : 10499
+      },
+      "status" : "broken",
+      "statusMessage" : "Error: Can't call setValue on element with selector \"[name=\"postalcode\"]\" because element wasn't found\n                    at implicitWait (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:34:19)\n                    at async Element.elementErrorHandlerCallbackFn (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\webdriverio\\build\\middlewares.js:20:29)\n                    at async Element.wrapCommandFn (C:\\Users\\Hp\\Desktop\\webdriverIO Final\\node_modules\\@wdio\\runner\\node_modules\\@wdio\\utils\\build\\shim.js:131:29)",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 6,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testClass",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testMethod",
+    "value" : "User wants to register in the site"
+  }, {
+    "name" : "package",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.99"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f6fa338fee5cc72d.json",
+  "parameterValues" : [ "chrome-97.0.4692.99" ]
+}
