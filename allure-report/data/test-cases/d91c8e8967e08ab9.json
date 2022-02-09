@@ -1,0 +1,157 @@
+{
+  "uid" : "d91c8e8967e08ab9",
+  "name" : "User wants to login the site",
+  "fullName" : "User want to test demotours.User wants to login the site",
+  "historyId" : "8dbaafe4c4ef162e032cf12960bb706",
+  "time" : {
+    "start" : 1644317143795,
+    "stop" : 1644317173686,
+    "duration" : 29891
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given user is on the login page",
+      "time" : {
+        "start" : 1644317143796,
+        "stop" : 1644317169317,
+        "duration" : 25521
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "loading sign on URL ",
+        "time" : {
+          "start" : 1644317144214,
+          "stop" : 1644317144214,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "fa70faf54e8d3c47",
+        "name" : "Screenshot",
+        "source" : "fa70faf54e8d3c47.png",
+        "type" : "image/png",
+        "size" : 227261
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    }, {
+      "name" : "When user enters login details",
+      "time" : {
+        "start" : 1644317169317,
+        "stop" : 1644317173685,
+        "duration" : 4368
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "given required credentials and clicking login btn",
+        "time" : {
+          "start" : 1644317173314,
+          "stop" : 1644317173314,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      }, {
+        "name" : "displaying titile",
+        "time" : {
+          "start" : 1644317173314,
+          "stop" : 1644317173314,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "shouldDisplayMessage" : false,
+        "attachmentsCount" : 0
+      } ],
+      "attachments" : [ {
+        "uid" : "6c8dd7d622a3e5ce",
+        "name" : "Screenshot",
+        "source" : "6c8dd7d622a3e5ce.png",
+        "type" : "image/png",
+        "size" : 143537
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 2,
+      "hasContent" : true,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 1
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 2
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testClass",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "testMethod",
+    "value" : "User wants to login the site"
+  }, {
+    "name" : "package",
+    "value" : "User want to test demotours"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-98.0.4758.81"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d91c8e8967e08ab9.json",
+  "parameterValues" : [ "chrome-98.0.4758.81" ]
+}
